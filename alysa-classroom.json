@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-04T16:58:53+08:00",
+ "updated_at": "2026-10-04T17:19:48+08:00",
  "source_checked_at": "2026-10-02T16:05:00+08:00",
  "notice": "資料由Manhattan先生每日整理推送，只讀",
  "homework": [
@@ -103,6 +103,8 @@
   }
  ],
  "grades": [],
+ "calendar": [],
+ "timetable": null,
  "study": {
   "subjects": []
  }
