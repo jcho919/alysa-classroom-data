@@ -1,0 +1,109 @@
+{
+ "updated_at": "2026-10-04T16:58:53+08:00",
+ "source_checked_at": "2026-10-02T16:05:00+08:00",
+ "notice": "資料由Manhattan先生每日整理推送，只讀",
+ "homework": [
+  {
+   "course": "6C中文 2026-2027",
+   "title": "〈晶晶的淚水〉詞語挑戰訂正",
+   "due_iso": "2026-10-04",
+   "due_display": "Sunday 4 Oct",
+   "status": "assigned",
+   "status_zh": "未交",
+   "status_en": "Assigned"
+  },
+  {
+   "course": "6C Drama",
+   "title": "Finished Scripts",
+   "due_iso": "2026-10-04",
+   "due_display": "Sunday 4 Oct",
+   "status": "assigned",
+   "status_zh": "未交",
+   "status_en": "Assigned"
+  },
+  {
+   "course": "Y6 C/D 1 French 2026-2027",
+   "title": "Homework",
+   "due_iso": "2026-10-04",
+   "due_display": "Sunday 4 Oct",
+   "status": "assigned",
+   "status_zh": "未交",
+   "status_en": "Assigned"
+  },
+  {
+   "course": "6C FTP and English Secondary",
+   "title": "Dear Book log and Presentation",
+   "due_iso": null,
+   "due_display": "No due date (posted 21 Aug)",
+   "status": "assigned",
+   "status_zh": "未交",
+   "status_en": "Assigned"
+  },
+  {
+   "course": "6C中國歷史 2026-2027",
+   "title": "六年級上學期專題研習指引：家族尋根",
+   "due_iso": "2026-09-15",
+   "due_display": "Tuesday 15 Sept",
+   "status": "missing",
+   "status_zh": "已逾期",
+   "status_en": "Missing"
+  },
+  {
+   "course": "Textile 6C",
+   "title": "Tie dye research page",
+   "due_iso": "2026-09-09",
+   "due_display": "Wednesday 9 Sept",
+   "status": "missing",
+   "status_zh": "已逾期",
+   "status_en": "Missing"
+  }
+ ],
+ "announcements": [
+  {
+   "course": "2627_6C Mathematics Secondary",
+   "title": "Thirteenth Annual Hong Kong Primary Mathematics Challenge（比賽 12/5 星期六）",
+   "posted": "2026-10-02 13:22"
+  },
+  {
+   "course": "2627_6C Mathematics Secondary",
+   "title": "UC02 Percentages 測驗改期至 10/13（40 分鐘，唔可用計數機）",
+   "posted": "2026-10-02 10:51"
+  },
+  {
+   "course": "2627_6C Mathematics Secondary",
+   "title": "2026-27 AMC 10/12 數學競賽報名（截止 10/12，比賽 11/6，費用 HKD 100）",
+   "posted": "2026-09-28"
+  },
+  {
+   "course": "6C FTP and English Secondary",
+   "title": "Achieving Carbon Neutrality Student Ambassadors 招募（截止 10/7）",
+   "posted": "2026-09-30"
+  },
+  {
+   "course": "2627 6C Geography",
+   "title": "Our Restless Earth Unit Test 定於 10/12（星期一）",
+   "posted": "2026-09-29 (edited 2026-09-30)"
+  },
+  {
+   "course": "6C Drama",
+   "title": "Finished Scripts 更新（到期 10/4）；上堂唔好帶電腦",
+   "posted": "2026-09-28"
+  }
+ ],
+ "materials": [
+  {
+   "course": "6C中文 2026-2027",
+   "title": "「篇篇流螢」網上閱讀計劃 10/5 啟動",
+   "posted": "2026-10-02 08:03"
+  },
+  {
+   "course": "6C中文 2026-2027",
+   "title": "閱讀護照計劃",
+   "posted": "2026-10-02 08:01"
+  }
+ ],
+ "grades": [],
+ "study": {
+  "subjects": []
+ }
+}
