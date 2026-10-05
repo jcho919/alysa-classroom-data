@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-05T18:37:28+08:00",
+ "updated_at": "2026-10-05T18:40:03+08:00",
  "source_checked_at": "2026-10-05T16:04:00+08:00",
  "notice": "資料由Manhattan先生每日整理推送，只讀",
  "homework": [
@@ -275,7 +275,7 @@
       "time": "11:25-12:10"
      },
      {
-      "subject": "中文 Chinese",
+      "subject": "英文 English",
       "time": "12:10-12:55"
      },
      {
@@ -291,8 +291,12 @@
       "time": "14:25-14:30"
      },
      {
-      "subject": "英文 English",
+      "subject": "DT / STEM（輪轉）",
       "time": "14:30-15:15"
+     },
+     {
+      "subject": "DT / STEM（輪轉）",
+      "time": "15:15-16:00"
      },
      {
       "subject": "HRT",
