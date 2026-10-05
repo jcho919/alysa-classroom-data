@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-05T18:07:28+08:00",
+ "updated_at": "2026-10-05T18:12:21+08:00",
  "source_checked_at": "2026-10-05T16:04:00+08:00",
  "notice": "資料由Manhattan先生每日整理推送，只讀",
  "homework": [
@@ -422,7 +422,7 @@
       "time": "10:15-10:40"
      },
      {
-      "subject": "地理 Geography",
+      "subject": "英文 English",
       "time": "10:40-11:25"
      },
      {
@@ -438,7 +438,7 @@
       "time": "12:55-13:40"
      },
      {
-      "subject": "中國歷史 Chinese History",
+      "subject": "地理 Geography",
       "time": "13:40-14:25"
      },
      {
@@ -446,8 +446,12 @@
       "time": "14:25-14:30"
      },
      {
-      "subject": "美術 Art",
+      "subject": "科學 Science",
       "time": "14:30-15:15"
+     },
+     {
+      "subject": "音樂 Music",
+      "time": "15:15-16:00"
      },
      {
       "subject": "HRT",
