@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-05T17:59:11+08:00",
+ "updated_at": "2026-10-05T18:06:33+08:00",
  "source_checked_at": "2026-10-05T16:04:00+08:00",
  "notice": "資料由Manhattan先生每日整理推送，只讀",
  "homework": [
@@ -340,8 +340,12 @@
       "time": "14:25-14:30"
      },
      {
-      "subject": "英文 English",
+      "subject": "科學 Science",
       "time": "14:30-15:15"
+     },
+     {
+      "subject": "科學 Science",
+      "time": "15:15-16:00"
      },
      {
       "subject": "HRT",
@@ -603,6 +607,10 @@
      {
       "subject": "科學 Science",
       "time": "14:30-15:15"
+     },
+     {
+      "subject": "科學 Science",
+      "time": "15:15-16:00"
      },
      {
       "subject": "HRT",
