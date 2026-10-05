@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-05T18:25:19+08:00",
+ "updated_at": "2026-10-05T18:26:11+08:00",
  "source_checked_at": "2026-10-05T16:04:00+08:00",
  "notice": "資料由Manhattan先生每日整理推送，只讀",
  "homework": [
@@ -471,7 +471,7 @@
       "time": "08:45-09:30"
      },
      {
-      "subject": "中文 Chinese",
+      "subject": "紡織 Textiles",
       "time": "09:30-10:15"
      },
      {
@@ -503,8 +503,12 @@
       "time": "14:25-14:30"
      },
      {
-      "subject": "英文 English",
+      "subject": "數學 Maths",
       "time": "14:30-15:15"
+     },
+     {
+      "subject": "英文 English",
+      "time": "15:15-16:00"
      },
      {
       "subject": "HRT",
@@ -609,11 +613,11 @@
       "time": "14:25-14:30"
      },
      {
-      "subject": "數學 Maths",
+      "subject": "英文 English",
       "time": "14:30-15:15"
      },
      {
-      "subject": "英文 English",
+      "subject": "數學 Maths",
       "time": "15:15-16:00"
      },
      {
