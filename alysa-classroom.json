@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-05T16:19:13+08:00",
+ "updated_at": "2026-10-05T17:41:36+08:00",
  "source_checked_at": "2026-10-05T16:04:00+08:00",
  "notice": "資料由Manhattan先生每日整理推送，只讀",
  "homework": [
@@ -131,7 +131,541 @@
    "title": "Chung Yeung Festival"
   }
  ],
- "timetable": null,
+ "timetable": {
+  "days": [
+   {
+    "day": "星期一 Monday（Week A）",
+    "periods": [
+     {
+      "subject": "班主任節 FTP",
+      "time": "08:00-08:45"
+     },
+     {
+      "subject": "英文 English",
+      "time": "08:45-09:30"
+     },
+     {
+      "subject": "歷史 History",
+      "time": "09:30-10:15"
+     },
+     {
+      "subject": "大息 Long Recess",
+      "time": "10:15-10:40"
+     },
+     {
+      "subject": "英文 English",
+      "time": "10:40-11:25"
+     },
+     {
+      "subject": "數學 Maths",
+      "time": "11:25-12:10"
+     },
+     {
+      "subject": "中文 Chinese",
+      "time": "12:10-12:55"
+     },
+     {
+      "subject": "午膳 Lunch",
+      "time": "12:55-13:40"
+     },
+     {
+      "subject": "地理 Geography",
+      "time": "13:40-14:25"
+     },
+     {
+      "subject": "小息 Short Break",
+      "time": "14:25-14:30"
+     },
+     {
+      "subject": "科學 Science",
+      "time": "14:30-15:15"
+     },
+     {
+      "subject": "音樂 Music",
+      "time": "15:15-16:00"
+     },
+     {
+      "subject": "HRT",
+      "time": "16:00-16:10"
+     }
+    ]
+   },
+   {
+    "day": "星期二 Tuesday（Week A）",
+    "periods": [
+     {
+      "subject": "班主任節 FTP",
+      "time": "08:00-08:45"
+     },
+     {
+      "subject": "歷史 History",
+      "time": "08:45-09:30"
+     },
+     {
+      "subject": "中文 Chinese",
+      "time": "09:30-10:15"
+     },
+     {
+      "subject": "大息 Long Recess",
+      "time": "10:15-10:40"
+     },
+     {
+      "subject": "地理 Geography",
+      "time": "10:40-11:25"
+     },
+     {
+      "subject": "科學 Science",
+      "time": "11:25-12:10"
+     },
+     {
+      "subject": "數學 Maths",
+      "time": "12:10-12:55"
+     },
+     {
+      "subject": "午膳 Lunch",
+      "time": "12:55-13:40"
+     },
+     {
+      "subject": "地理 Geography",
+      "time": "13:40-14:25"
+     },
+     {
+      "subject": "小息 Short Break",
+      "time": "14:25-14:30"
+     },
+     {
+      "subject": "數學 Maths",
+      "time": "14:30-15:15"
+     },
+     {
+      "subject": "HRT",
+      "time": "16:00-16:10"
+     }
+    ]
+   },
+   {
+    "day": "星期三 Wednesday（Week A）",
+    "periods": [
+     {
+      "subject": "班主任節 FTP",
+      "time": "08:00-08:45"
+     },
+     {
+      "subject": "數學 Maths",
+      "time": "08:45-09:30"
+     },
+     {
+      "subject": "中國歷史 Chinese History",
+      "time": "09:30-10:15"
+     },
+     {
+      "subject": "大息 Long Recess",
+      "time": "10:15-10:40"
+     },
+     {
+      "subject": "戲劇 Drama",
+      "time": "10:40-11:25"
+     },
+     {
+      "subject": "DT / STEM（輪轉）",
+      "time": "11:25-12:10"
+     },
+     {
+      "subject": "中文 Chinese",
+      "time": "12:10-12:55"
+     },
+     {
+      "subject": "午膳 Lunch",
+      "time": "12:55-13:40"
+     },
+     {
+      "subject": "MECS",
+      "time": "13:40-14:25"
+     },
+     {
+      "subject": "小息 Short Break",
+      "time": "14:25-14:30"
+     },
+     {
+      "subject": "英文 English",
+      "time": "14:30-15:15"
+     },
+     {
+      "subject": "HRT",
+      "time": "16:00-16:10"
+     }
+    ]
+   },
+   {
+    "day": "星期四 Thursday（Week A）",
+    "periods": [
+     {
+      "subject": "班主任節 FTP",
+      "time": "08:00-08:45"
+     },
+     {
+      "subject": "中文 Chinese",
+      "time": "08:45-09:30"
+     },
+     {
+      "subject": "英文 English",
+      "time": "09:30-10:15"
+     },
+     {
+      "subject": "大息 Long Recess",
+      "time": "10:15-10:40"
+     },
+     {
+      "subject": "體育 PE",
+      "time": "10:40-11:25"
+     },
+     {
+      "time": "11:25-12:10",
+      "subject": "體育 PE"
+     },
+     {
+      "subject": "樂器 Instrumental (Y6)",
+      "time": "12:10-12:55"
+     },
+     {
+      "subject": "午膳 Lunch",
+      "time": "12:55-13:40"
+     },
+     {
+      "subject": "數學 Maths",
+      "time": "13:40-14:25"
+     },
+     {
+      "subject": "小息 Short Break",
+      "time": "14:25-14:30"
+     },
+     {
+      "subject": "科學 Science",
+      "time": "14:30-15:15"
+     },
+     {
+      "subject": "HRT",
+      "time": "16:00-16:10"
+     }
+    ]
+   },
+   {
+    "day": "星期五 Friday（Week A）",
+    "periods": [
+     {
+      "subject": "班主任節 FTP",
+      "time": "08:00-08:45"
+     },
+     {
+      "subject": "英文 English",
+      "time": "08:45-09:30"
+     },
+     {
+      "subject": "數學 Maths",
+      "time": "09:30-10:15"
+     },
+     {
+      "subject": "大息 Long Recess",
+      "time": "10:15-10:40"
+     },
+     {
+      "subject": "體育 PE",
+      "time": "10:40-11:25"
+     },
+     {
+      "subject": "中文 Chinese",
+      "time": "12:10-12:55"
+     },
+     {
+      "subject": "午膳 Lunch",
+      "time": "12:55-13:40"
+     },
+     {
+      "subject": "集會 Assembly",
+      "time": "13:40-14:25"
+     },
+     {
+      "subject": "小息 Short Break",
+      "time": "14:25-14:30"
+     },
+     {
+      "subject": "活動節 Activity Period",
+      "time": "14:30-16:00"
+     },
+     {
+      "subject": "HRT",
+      "time": "16:00-16:10"
+     }
+    ]
+   },
+   {
+    "day": "星期一 Monday（Week B）",
+    "periods": [
+     {
+      "subject": "班主任節 FTP",
+      "time": "08:00-08:45"
+     },
+     {
+      "subject": "數學 Maths",
+      "time": "08:45-09:30"
+     },
+     {
+      "subject": "法文 French",
+      "time": "09:30-10:15"
+     },
+     {
+      "subject": "大息 Long Recess",
+      "time": "10:15-10:40"
+     },
+     {
+      "subject": "地理 Geography",
+      "time": "10:40-11:25"
+     },
+     {
+      "subject": "地理 Geography",
+      "time": "11:25-12:10"
+     },
+     {
+      "subject": "中文 Chinese",
+      "time": "12:10-12:55"
+     },
+     {
+      "subject": "午膳 Lunch",
+      "time": "12:55-13:40"
+     },
+     {
+      "subject": "英文 English",
+      "time": "13:40-14:25"
+     },
+     {
+      "subject": "小息 Short Break",
+      "time": "14:25-14:30"
+     },
+     {
+      "subject": "美術 Art",
+      "time": "14:30-15:15"
+     },
+     {
+      "subject": "HRT",
+      "time": "16:00-16:10"
+     }
+    ]
+   },
+   {
+    "day": "星期二 Tuesday（Week B）",
+    "periods": [
+     {
+      "subject": "班主任節 FTP",
+      "time": "08:00-08:45"
+     },
+     {
+      "subject": "紡織 Textiles",
+      "time": "08:45-09:30"
+     },
+     {
+      "subject": "中文 Chinese",
+      "time": "09:30-10:15"
+     },
+     {
+      "subject": "大息 Long Recess",
+      "time": "10:15-10:40"
+     },
+     {
+      "subject": "歷史 History",
+      "time": "10:40-11:25"
+     },
+     {
+      "subject": "中文 Chinese",
+      "time": "11:25-12:10"
+     },
+     {
+      "subject": "音樂 Music",
+      "time": "12:10-12:55"
+     },
+     {
+      "subject": "午膳 Lunch",
+      "time": "12:55-13:40"
+     },
+     {
+      "subject": "英文 English",
+      "time": "13:40-14:25"
+     },
+     {
+      "subject": "小息 Short Break",
+      "time": "14:25-14:30"
+     },
+     {
+      "subject": "英文 English",
+      "time": "14:30-15:15"
+     },
+     {
+      "subject": "HRT",
+      "time": "16:00-16:10"
+     }
+    ]
+   },
+   {
+    "day": "星期三 Wednesday（Week B）",
+    "periods": [
+     {
+      "subject": "班主任節 FTP",
+      "time": "08:00-08:45"
+     },
+     {
+      "subject": "歷史 History",
+      "time": "08:45-09:30"
+     },
+     {
+      "subject": "數學 Maths",
+      "time": "09:30-10:15"
+     },
+     {
+      "subject": "大息 Long Recess",
+      "time": "10:15-10:40"
+     },
+     {
+      "subject": "DT / STEM（輪轉）",
+      "time": "10:40-11:25"
+     },
+     {
+      "subject": "資訊科技 ICT",
+      "time": "11:25-12:10"
+     },
+     {
+      "subject": "英文 English",
+      "time": "12:10-12:55"
+     },
+     {
+      "subject": "午膳 Lunch",
+      "time": "12:55-13:40"
+     },
+     {
+      "subject": "MECS",
+      "time": "13:40-14:25"
+     },
+     {
+      "subject": "小息 Short Break",
+      "time": "14:25-14:30"
+     },
+     {
+      "subject": "DT / STEM（輪轉）",
+      "time": "14:30-15:15"
+     },
+     {
+      "subject": "HRT",
+      "time": "16:00-16:10"
+     }
+    ]
+   },
+   {
+    "day": "星期四 Thursday（Week B）",
+    "periods": [
+     {
+      "subject": "班主任節 FTP",
+      "time": "08:00-08:45"
+     },
+     {
+      "subject": "中文 Chinese",
+      "time": "08:45-09:30"
+     },
+     {
+      "subject": "科學 Science",
+      "time": "09:30-10:15"
+     },
+     {
+      "subject": "大息 Long Recess",
+      "time": "10:15-10:40"
+     },
+     {
+      "subject": "體育 PE",
+      "time": "10:40-11:25"
+     },
+     {
+      "subject": "體育 PE",
+      "time": "11:25-12:10"
+     },
+     {
+      "subject": "樂器 Instrumental (Y6)",
+      "time": "12:10-12:55"
+     },
+     {
+      "subject": "午膳 Lunch",
+      "time": "12:55-13:40"
+     },
+     {
+      "subject": "戲劇 Drama",
+      "time": "13:40-14:25"
+     },
+     {
+      "subject": "小息 Short Break",
+      "time": "14:25-14:30"
+     },
+     {
+      "subject": "科學 Science",
+      "time": "14:30-15:15"
+     },
+     {
+      "subject": "HRT",
+      "time": "16:00-16:10"
+     }
+    ]
+   },
+   {
+    "day": "星期五 Friday（Week B）",
+    "periods": [
+     {
+      "subject": "班主任節 FTP",
+      "time": "08:00-08:45"
+     },
+     {
+      "subject": "中文 Chinese",
+      "time": "08:45-09:30"
+     },
+     {
+      "subject": "英文 English",
+      "time": "09:30-10:15"
+     },
+     {
+      "subject": "大息 Long Recess",
+      "time": "10:15-10:40"
+     },
+     {
+      "subject": "美術 Art",
+      "time": "10:40-11:25"
+     },
+     {
+      "subject": "美術 Art",
+      "time": "11:25-12:10"
+     },
+     {
+      "subject": "數學 Maths",
+      "time": "12:10-12:55"
+     },
+     {
+      "subject": "午膳 Lunch",
+      "time": "12:55-13:40"
+     },
+     {
+      "subject": "集會 Assembly",
+      "time": "13:40-14:25"
+     },
+     {
+      "subject": "小息 Short Break",
+      "time": "14:25-14:30"
+     },
+     {
+      "subject": "活動節 Activity Period",
+      "time": "14:30-16:00"
+     },
+     {
+      "subject": "HRT",
+      "time": "16:00-16:10"
+     }
+    ]
+   }
+  ],
+  "note": "CKY 6C 課堂時間表 2026-27（A/B 週）。DT/STEM 為輪轉課堂。由 Johnny 2026-10-05 提供嘅掃描件轉錄。"
+ },
  "study": {
   "subjects": []
  }
