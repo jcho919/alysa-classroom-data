@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-05T18:34:06+08:00",
+ "updated_at": "2026-10-05T18:36:21+08:00",
  "source_checked_at": "2026-10-05T16:04:00+08:00",
  "notice": "資料由Manhattan先生每日整理推送，只讀",
  "homework": [
@@ -236,6 +236,10 @@
      {
       "subject": "數學 Maths",
       "time": "14:30-15:15"
+     },
+     {
+      "subject": "數學 Maths",
+      "time": "15:15-16:00"
      },
      {
       "subject": "HRT",
