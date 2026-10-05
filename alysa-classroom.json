@@ -1,31 +1,13 @@
 {
- "updated_at": "2026-10-04T17:19:48+08:00",
- "source_checked_at": "2026-10-02T16:05:00+08:00",
+ "updated_at": "2026-10-05T16:19:13+08:00",
+ "source_checked_at": "2026-10-05T16:04:00+08:00",
  "notice": "資料由Manhattan先生每日整理推送，只讀",
  "homework": [
   {
    "course": "6C中文 2026-2027",
-   "title": "〈晶晶的淚水〉詞語挑戰訂正",
-   "due_iso": "2026-10-04",
-   "due_display": "Sunday 4 Oct",
-   "status": "assigned",
-   "status_zh": "未交",
-   "status_en": "Assigned"
-  },
-  {
-   "course": "6C Drama",
-   "title": "Finished Scripts",
-   "due_iso": "2026-10-04",
-   "due_display": "Sunday 4 Oct",
-   "status": "assigned",
-   "status_zh": "未交",
-   "status_en": "Assigned"
-  },
-  {
-   "course": "Y6 C/D 1 French 2026-2027",
-   "title": "Homework",
-   "due_iso": "2026-10-04",
-   "due_display": "Sunday 4 Oct",
+   "title": "W8篇篇流螢",
+   "due_iso": "2026-10-12",
+   "due_display": "Monday 12 Oct 23:59",
    "status": "assigned",
    "status_zh": "未交",
    "status_en": "Assigned"
@@ -61,49 +43,94 @@
  "announcements": [
   {
    "course": "2627_6C Mathematics Secondary",
-   "title": "Thirteenth Annual Hong Kong Primary Mathematics Challenge（比賽 12/5 星期六）",
-   "posted": "2026-10-02 13:22"
+   "title": "UPDATED DATE! UC02 Percentages 測驗改期至 10/13（星期二 Week A，40 分鐘，唔可用計數機）",
+   "posted": "2026-10-02"
   },
   {
    "course": "2627_6C Mathematics Secondary",
-   "title": "UC02 Percentages 測驗改期至 10/13（40 分鐘，唔可用計數機）",
-   "posted": "2026-10-02 10:51"
-  },
-  {
-   "course": "2627_6C Mathematics Secondary",
-   "title": "2026-27 AMC 10/12 數學競賽報名（截止 10/12，比賽 11/6，費用 HKD 100）",
-   "posted": "2026-09-28"
+   "title": "Thirteenth Annual Hong Kong Primary Mathematics Challenge（比賽 12/5 星期六 8:45–12:00，免費，回條 10/14 前交）",
+   "posted": "2026-10-02"
   },
   {
    "course": "6C FTP and English Secondary",
-   "title": "Achieving Carbon Neutrality Student Ambassadors 招募（截止 10/7）",
+   "title": "BYOD scheme for secondary students（家長公告）",
+   "posted": "2026-09-30"
+  },
+  {
+   "course": "6C FTP and English Secondary",
+   "title": "Achieving Carbon Neutrality Student Ambassador 招募（10/7 前 email chans@cky.edu.hk）",
+   "posted": "2026-09-30"
+  },
+  {
+   "course": "6C中文 2026-2027",
+   "title": "（下週第二次寫作練習溫習）",
+   "posted": "2026-09-30"
+  },
+  {
+   "course": "6C中文 2026-2027",
+   "title": "",
    "posted": "2026-09-30"
   },
   {
    "course": "2627 6C Geography",
-   "title": "Our Restless Earth Unit Test 定於 10/12（星期一）",
+   "title": "Our Restless Earth Unit Test 10/12（星期一，40 分鐘，溫習 pp.3–17、PPT、worksheet、p.18 pie chart）",
    "posted": "2026-09-29 (edited 2026-09-30)"
-  },
-  {
-   "course": "6C Drama",
-   "title": "Finished Scripts 更新（到期 10/4）；上堂唔好帶電腦",
-   "posted": "2026-09-28"
   }
  ],
  "materials": [
   {
    "course": "6C中文 2026-2027",
-   "title": "「篇篇流螢」網上閱讀計劃 10/5 啟動",
-   "posted": "2026-10-02 08:03"
+   "title": "📚「篇篇流螢」網上閱讀計劃 10/5 正式啟動",
+   "posted": "2026-10-02"
   },
   {
    "course": "6C中文 2026-2027",
    "title": "閱讀護照計劃",
-   "posted": "2026-10-02 08:01"
+   "posted": "2026-10-02"
+  },
+  {
+   "course": "6C History 2026-2027",
+   "title": "Unit 1 Historical skills",
+   "posted": "2026-09-30"
+  },
+  {
+   "course": "6C/6D STEM (2026-2027)",
+   "title": "Virtual Pet (Tamagotchi) and wiring",
+   "posted": "edited 2026-09-30"
+  },
+  {
+   "course": "6C中文 2026-2027",
+   "title": "週末功課_人物描寫段落寫作",
+   "posted": "2026-09-29"
   }
  ],
  "grades": [],
- "calendar": [],
+ "calendar": [
+  {
+   "date_display": "10月7日 星期三",
+   "date_iso": "2026-10-07",
+   "time": "",
+   "title": "Assignment: 日營後感"
+  },
+  {
+   "date_display": "10月12日 星期一",
+   "date_iso": "2026-10-12",
+   "time": "",
+   "title": "Columbus Day"
+  },
+  {
+   "date_display": "10月12日 星期一",
+   "date_iso": "2026-10-12",
+   "time": "23:58-23:59",
+   "title": "Assignment: W8篇篇流螢"
+  },
+  {
+   "date_display": "10月18日 星期日",
+   "date_iso": "2026-10-18",
+   "time": "",
+   "title": "Chung Yeung Festival"
+  }
+ ],
  "timetable": null,
  "study": {
   "subjects": []
