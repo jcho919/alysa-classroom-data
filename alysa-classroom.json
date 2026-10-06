@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-06T10:15:35+08:00",
- "source_checked_at": "2026-10-05T16:04:00+08:00",
+ "updated_at": "2026-10-06T16:19:03+08:00",
+ "source_checked_at": "2026-10-06T16:05:00+08:00",
  "notice": "資料由Manhattan先生每日整理推送，只讀",
  "homework": [
   {
@@ -13,7 +13,7 @@
    "status_en": "Assigned"
   },
   {
-   "course": "6C FTP and English Secondary",
+   "course": "6C FTP and English",
    "title": "Dear Book log and Presentation",
    "due_iso": null,
    "due_display": "No due date (posted 21 Aug)",
@@ -42,9 +42,29 @@
  ],
  "announcements": [
   {
+   "course": "6C History 2026-2027",
+   "title": "History Quiz on Historical skills，日期 10/13",
+   "posted": "2026-10-06 10:44"
+  },
+  {
    "course": "2627_6C Mathematics Secondary",
-   "title": "UPDATED DATE! UC02 Percentages 測驗改期至 10/13（星期二 Week A，40 分鐘，唔可用計數機）",
-   "posted": "2026-10-02"
+   "title": "UC02 Percentages 2nd UPDATED DATE! 因疫苗安排改返星期五，Date: 16 October（Week A Friday），40 mins，Calculators not allowed",
+   "posted": "2026-10-06 13:32"
+  },
+  {
+   "course": "26-27 6C Music",
+   "title": "6C Guidelines of Individual Assessment（reference guidelines，term break 後交 hard copy）",
+   "posted": "2026-10-06 14:10"
+  },
+  {
+   "course": "6C中文 2026-2027",
+   "title": "六年級人物描寫練習指引（Google Slides）",
+   "posted": "2026-10-05"
+  },
+  {
+   "course": "6C中文 2026-2027",
+   "title": "重要提醒：篇篇流螢登入帳號 — 請把 @student.cky.edu.hk 改為 @chicul.edu.hk",
+   "posted": "2026-10-05"
   },
   {
    "course": "2627_6C Mathematics Secondary",
@@ -52,23 +72,18 @@
    "posted": "2026-10-02"
   },
   {
-   "course": "6C FTP and English Secondary",
+   "course": "6C FTP and English",
    "title": "BYOD scheme for secondary students（家長公告）",
    "posted": "2026-09-30"
   },
   {
-   "course": "6C FTP and English Secondary",
+   "course": "6C FTP and English",
    "title": "Achieving Carbon Neutrality Student Ambassador 招募（10/7 前 email chans@cky.edu.hk）",
    "posted": "2026-09-30"
   },
   {
    "course": "6C中文 2026-2027",
    "title": "（下週第二次寫作練習溫習）",
-   "posted": "2026-09-30"
-  },
-  {
-   "course": "6C中文 2026-2027",
-   "title": "",
    "posted": "2026-09-30"
   },
   {
@@ -129,6 +144,12 @@
    "date_iso": "2026-10-18",
    "time": "",
    "title": "Chung Yeung Festival"
+  },
+  {
+   "date_display": "10月19日 星期一",
+   "date_iso": "2026-10-19",
+   "time": "",
+   "title": "Day off for Chung Yeung Festival"
   }
  ],
  "timetable": {
