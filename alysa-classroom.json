@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-06T16:35:08+08:00",
+ "updated_at": "2026-10-06T20:42:10+08:00",
  "source_checked_at": "2026-10-06T16:05:00+08:00",
  "notice": "資料由Manhattan先生每日整理推送，只讀",
  "homework": [
@@ -730,11 +730,11 @@
    "links": [
     {
      "title": "History 練習紙（Historical skills，14題＋答案）",
-     "url": "https://muse.ai/files/1341964712331253/1863591118008338/dkkzoy5c6xg1k33v5rw7b2j1/history-historical-skills-practice-2026-10-06.pdf"
+     "url": "https://raw.githubusercontent.com/jcho919/alysa-classroom-data/main/pdfs/history-historical-skills-practice-2026-10-06.pdf"
     },
     {
      "title": "Geography 練習紙（14題＋答案）",
-     "url": "https://muse.ai/files/1341964712331253/882941041519817/1gr2xemkxeiz7tntzja8rrrm/geo-restless-earth-practice-2026-10-05.pdf"
+     "url": "https://raw.githubusercontent.com/jcho919/alysa-classroom-data/main/pdfs/geo-restless-earth-practice-2026-10-05.pdf"
     }
    ]
   },
@@ -745,7 +745,7 @@
    "links": [
     {
      "title": "Geography 練習紙（14題＋答案）",
-     "url": "https://muse.ai/files/1341964712331253/882941041519817/1gr2xemkxeiz7tntzja8rrrm/geo-restless-earth-practice-2026-10-05.pdf"
+     "url": "https://raw.githubusercontent.com/jcho919/alysa-classroom-data/main/pdfs/geo-restless-earth-practice-2026-10-05.pdf"
     }
    ]
   }
