@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-05T18:43:39+08:00",
+ "updated_at": "2026-10-06T10:15:35+08:00",
  "source_checked_at": "2026-10-05T16:04:00+08:00",
  "notice": "資料由Manhattan先生每日整理推送，只讀",
  "homework": [
@@ -700,5 +700,18 @@
  },
  "study": {
   "subjects": []
- }
+ },
+ "study_plans": [
+  {
+   "date": "2026-10-05",
+   "date_display": "10月5日（星期一）",
+   "plan_text": "琛琛每日溫習計劃（10月5日，星期一）\n\n今晚要做：\n1. W8篇篇流螢（中文，10/12 到期）— 今晚開波讀\n2. Geography 溫習：Our Restless Earth（10/12 測驗，pp.3–17、PPT、worksheet、pie chart）+ 做練習紙\n3. Dear Book log and Presentation（英文）\n4. 數學 Percentages 練下（10/13 quiz，唔可用計數機）\n\n今晚時間表：\n- 19:00–19:30 中文 W8篇篇流螢\n- 19:35–20:15 Geography 溫習 + 練習紙\n- 20:20–20:50 英文 Dear Book log\n- 20:55–21:15 數學 Percentages\n\n測驗／考試預告：\n- 10/12（一）Geography Unit Test — Our Restless Earth（40分鐘）\n- 10/13（二）Math UC02 Percentages quiz（40分鐘，唔可用計數機）\n- 10/14（三）數學比賽回條交回老師\n\n逾期未交（叫琛琛補返）：\n- 家族尋根專題研習指引（中國歷史，原到期 9/15）\n- Tie dye research page（Textile，原到期 9/9）\n\nPDF：Geography 練習紙（14題，答案喺尾頁，俾爸爸先睇）\nhttps://muse.ai/files/1341964712331253/882941041519817/1gr2xemkxeiz7tntzja8rrrm/geo-restless-earth-practice-2026-10-05.pdf\n（link 10月7日到期）",
+   "links": [
+    {
+     "title": "Geography 練習紙（14題＋答案）",
+     "url": "https://muse.ai/files/1341964712331253/882941041519817/1gr2xemkxeiz7tntzja8rrrm/geo-restless-earth-practice-2026-10-05.pdf"
+    }
+   ]
+  }
+ ]
 }
