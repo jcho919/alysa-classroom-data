@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-06T20:42:10+08:00",
- "source_checked_at": "2026-10-06T16:05:00+08:00",
+ "updated_at": "2026-10-07T16:18:37+08:00",
+ "source_checked_at": "2026-10-07T16:05:00+08:00",
  "notice": "資料由Manhattan先生每日整理推送，只讀",
  "homework": [
   {
@@ -20,50 +20,42 @@
    "status": "assigned",
    "status_zh": "未交",
    "status_en": "Assigned"
-  },
-  {
-   "course": "6C中國歷史 2026-2027",
-   "title": "六年級上學期專題研習指引：家族尋根",
-   "due_iso": "2026-09-15",
-   "due_display": "Tuesday 15 Sept",
-   "status": "missing",
-   "status_zh": "已逾期",
-   "status_en": "Missing"
-  },
-  {
-   "course": "Textile 6C",
-   "title": "Tie dye research page",
-   "due_iso": "2026-09-09",
-   "due_display": "Wednesday 9 Sept",
-   "status": "missing",
-   "status_zh": "已逾期",
-   "status_en": "Missing"
   }
  ],
  "announcements": [
   {
-   "course": "6C History 2026-2027",
-   "title": "History Quiz on Historical skills，日期 10/13",
-   "posted": "2026-10-06 10:44"
-  },
-  {
-   "course": "2627_6C Mathematics Secondary",
-   "title": "UC02 Percentages 2nd UPDATED DATE! 因疫苗安排改返星期五，Date: 16 October（Week A Friday），40 mins，Calculators not allowed",
-   "posted": "2026-10-06 13:32"
-  },
-  {
-   "course": "26-27 6C Music",
-   "title": "6C Guidelines of Individual Assessment（reference guidelines，term break 後交 hard copy）",
-   "posted": "2026-10-06 14:10"
+   "course": "6C中文 2026-2027",
+   "title": "老師已看完大家在簡報上完成的片段寫作，請睇 feedback 同優秀作品（EX/S/S+）",
+   "posted": "2026-10-06"
   },
   {
    "course": "6C中文 2026-2027",
-   "title": "六年級人物描寫練習指引（Google Slides）",
+   "title": "— 之前過咗 deadline 失效，現已恢復",
    "posted": "2026-10-05"
   },
   {
    "course": "6C中文 2026-2027",
-   "title": "重要提醒：篇篇流螢登入帳號 — 請把 @student.cky.edu.hk 改為 @chicul.edu.hk",
+   "title": "重要提醒：篇篇流螢登入帳號 — 把 @student.cky.edu.hk 改為 @chicul.edu.hk",
+   "posted": "2026-10-05"
+  },
+  {
+   "course": "6C History 2026-2027",
+   "title": "History Quiz on Historical skills，日期 10/13",
+   "posted": "2026-10-06"
+  },
+  {
+   "course": "2627_6C Mathematics Secondary",
+   "title": "UC02 Percentages 2nd UPDATED DATE! 改返星期五 10/16（Week A Friday），40 分鐘，唔可用計數機",
+   "posted": "2026-10-06"
+  },
+  {
+   "course": "26-27 6C Music",
+   "title": "6C Guidelines of Individual Assessment（term break 後交 hard copy，唔經 GC）",
+   "posted": "2026-10-06"
+  },
+  {
+   "course": "6C中文 2026-2027",
+   "title": "六年級人物描寫練習指引（Google Slides）",
    "posted": "2026-10-05"
   },
   {
@@ -83,7 +75,12 @@
   },
   {
    "course": "6C中文 2026-2027",
-   "title": "（下週第二次寫作練習溫習）",
+   "title": "：想、寫、改；格事言行；佳作賞析；學生描寫詞彙應用手冊",
+   "posted": "2026-09-30"
+  },
+  {
+   "course": "6C中文 2026-2027",
+   "title": "",
    "posted": "2026-09-30"
   },
   {
