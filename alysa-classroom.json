@@ -1,13 +1,13 @@
 {
- "updated_at": "2026-10-07T16:34:37+08:00",
- "source_checked_at": "2026-10-07T16:05:00+08:00",
+ "updated_at": "2026-10-08T16:36:52+08:00",
+ "source_checked_at": "2026-10-08T16:50:00+08:00",
  "notice": "資料由Manhattan先生每日整理推送，只讀",
  "homework": [
   {
    "course": "6C中文 2026-2027",
-   "title": "W8篇篇流螢",
+   "title": "W8篇篇流螢 — 本週閱讀題截圖發上 GC，登入用 @chicul.edu.hk",
    "due_iso": "2026-10-12",
-   "due_display": "Monday 12 Oct 23:59",
+   "due_display": "Monday 12 Oct 23:59 HKT（詳情頁以 UTC 顯示為 15:59，非修改）",
    "status": "assigned",
    "status_zh": "未交",
    "status_en": "Assigned"
@@ -23,6 +23,11 @@
   }
  ],
  "announcements": [
+  {
+   "course": "2627_6C Mathematics Secondary",
+   "title": "自願競賽：HKPMC 12/5（8:45–12:00，回條 10/14 前交）、AMC 10/12（11/6，報名已於 10/8 8am 截止）、TIMO、AI Math Olympiad",
+   "posted": "2026-10-02"
+  },
   {
    "course": "6C中文 2026-2027",
    "title": "老師已看完大家在簡報上完成的片段寫作，請睇 feedback 同優秀作品（EX/S/S+）",
@@ -720,6 +725,21 @@
   "subjects": []
  },
  "study_plans": [
+  {
+   "date": "2026-10-08",
+   "date_display": "10月8日（星期四）",
+   "plan_text": "琛琛每日溫習計劃（10月8日，星期四）\n\n今晚要做：\n1. W8篇篇流螢（中文 W8 抄寫練習，10/12（一）23:59 到期）— 截圖發上 Classroom，記得用 @chicul.edu.hk 帳號登入\n2. Geography 溫習：Our Restless Earth（10/12（一）Unit Test，40分鐘，仲有 4 日）— 做返 10/5 份練習紙\n3. History 溫習：Historical skills（10/13（二）quiz，仲有 5 日）— 做返 10/6 份練習紙\n4. 數學 UC02 Percentages 輕鬆預習（10/16（五）quiz，40分鐘，唔可用計數機）\n5. 英文 Dear Book log and Presentation（無到期日，慢慢做）\n\n今晚時間表：\n- 19:00–19:30 中文 W8篇篇流螢抄寫\n- 19:35–20:05 Geography 溫習＋練習紙\n- 20:10–20:40 History 溫習＋練習紙\n- 20:45–21:15 數學預習／英文 Dear Book log\n\n測驗預告：\n- 10/12（一）Geography Unit Test — Our Restless Earth（仲有 4 日）\n- 10/13（二）History Quiz — Historical skills（仲有 5 日）\n- 10/16（五）Math UC02 Percentages quiz（仲有 8 日）\n- Music Individual Assessment — term break 後交 hard copy（日期未公布）\n\n提醒：\n- 數學挑戰賽（12/5 星期六 8:45–12:00）回條 10/14（三）前交老師 — 仲有 6 日\n- 中文老師已批改第一次片段寫作，記得睇 feedback 同優秀作品（EX/S/S+）\n- Missing 清單清空，無逾期未交功課\n- W8篇篇流螢：今日 Classroom 頁面顯示 15:59（應係 UTC 顯示，即 23:59 HKT），照舊按 23:59 當準\n\nPDF 練習：今日無新出（Geography 同 History 練習紙 10/5、10/6 已俾；數學 quiz 仲有 8 日，未到 7 日窗口）",
+   "links": [
+    {
+     "title": "History 練習紙（Historical skills，14題＋答案）",
+     "url": "https://raw.githubusercontent.com/jcho919/alysa-classroom-data/main/pdfs/history-historical-skills-practice-2026-10-06.pdf"
+    },
+    {
+     "title": "Geography 練習紙（14題＋答案）",
+     "url": "https://raw.githubusercontent.com/jcho919/alysa-classroom-data/main/pdfs/geo-restless-earth-practice-2026-10-05.pdf"
+    }
+   ]
+  },
   {
    "date": "2026-10-07",
    "date_display": "10月7日（星期三）",
