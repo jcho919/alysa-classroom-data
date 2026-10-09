@@ -1,13 +1,22 @@
 {
- "updated_at": "2026-10-08T16:36:52+08:00",
- "source_checked_at": "2026-10-08T16:50:00+08:00",
+ "updated_at": "2026-10-09T16:17:08+08:00",
+ "source_checked_at": "2026-10-09T16:05:00+08:00",
  "notice": "資料由Manhattan先生每日整理推送，只讀",
  "homework": [
   {
    "course": "6C中文 2026-2027",
    "title": "W8篇篇流螢 — 本週閱讀題截圖發上 GC，登入用 @chicul.edu.hk",
    "due_iso": "2026-10-12",
-   "due_display": "Monday 12 Oct 23:59 HKT（詳情頁以 UTC 顯示為 15:59，非修改）",
+   "due_display": "Monday 12 Oct 23:59 HKT",
+   "status": "assigned",
+   "status_zh": "未交",
+   "status_en": "Assigned"
+  },
+  {
+   "course": "6C ART 26/27",
+   "title": "Mood board（新增，9 Oct 發布）",
+   "due_iso": "2026-10-12",
+   "due_display": "Mon 12 Oct 23:59 HKT",
    "status": "assigned",
    "status_zh": "未交",
    "status_en": "Assigned"
@@ -23,6 +32,21 @@
   }
  ],
  "announcements": [
+  {
+   "course": "6C中文 2026-2027",
+   "title": "新公告：【第二次閱讀理解<一碗餛飩的溫度>答案】",
+   "posted": "2026-10-09"
+  },
+  {
+   "course": "6C中文 2026-2027",
+   "title": "新公告：【中文手冊答案（不包括古文）】（會用中文手冊＋閱練溫習）",
+   "posted": "2026-10-09"
+  },
+  {
+   "course": "6C中文 2026-2027",
+   "title": "新公告：【文言文閱讀技巧】（附圖片）",
+   "posted": "2026-10-09"
+  },
   {
    "course": "2627_6C Mathematics Secondary",
    "title": "自願競賽：HKPMC 12/5（8:45–12:00，回條 10/14 前交）、AMC 10/12（11/6，報名已於 10/8 8am 截止）、TIMO、AI Math Olympiad",
@@ -87,11 +111,6 @@
    "course": "6C中文 2026-2027",
    "title": "",
    "posted": "2026-09-30"
-  },
-  {
-   "course": "2627 6C Geography",
-   "title": "Our Restless Earth Unit Test 10/12（星期一，40 分鐘，溫習 pp.3–17、PPT、worksheet、p.18 pie chart）",
-   "posted": "2026-09-29 (edited 2026-09-30)"
   }
  ],
  "materials": [
@@ -104,36 +123,21 @@
    "course": "6C中文 2026-2027",
    "title": "閱讀護照計劃",
    "posted": "2026-10-02"
-  },
-  {
-   "course": "6C History 2026-2027",
-   "title": "Unit 1 Historical skills",
-   "posted": "2026-09-30"
-  },
-  {
-   "course": "6C/6D STEM (2026-2027)",
-   "title": "Virtual Pet (Tamagotchi) and wiring",
-   "posted": "edited 2026-09-30"
-  },
-  {
-   "course": "6C中文 2026-2027",
-   "title": "週末功課_人物描寫段落寫作",
-   "posted": "2026-09-29"
   }
  ],
  "grades": [],
  "calendar": [
   {
-   "date_display": "10月7日 星期三",
-   "date_iso": "2026-10-07",
-   "time": "",
-   "title": "Assignment: 日營後感"
-  },
-  {
    "date_display": "10月12日 星期一",
    "date_iso": "2026-10-12",
    "time": "",
    "title": "Columbus Day"
+  },
+  {
+   "date_display": "10月12日 星期一",
+   "date_iso": "2026-10-12",
+   "time": "23:58-23:59",
+   "title": "Assignment: Mood board"
   },
   {
    "date_display": "10月12日 星期一",
