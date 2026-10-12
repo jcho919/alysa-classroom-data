@@ -1,22 +1,13 @@
 {
- "updated_at": "2026-10-10T00:18:36+08:00",
- "source_checked_at": "2026-10-09T16:05:00+08:00",
+ "updated_at": "2026-10-12T16:18:52+08:00",
+ "source_checked_at": "2026-10-12T16:04:00+08:00",
  "notice": "資料由Manhattan先生每日整理推送，只讀",
  "homework": [
   {
    "course": "6C中文 2026-2027",
-   "title": "W8篇篇流螢 — 本週閱讀題截圖發上 GC，登入用 @chicul.edu.hk",
-   "due_iso": "2026-10-12",
-   "due_display": "Monday 12 Oct 23:59 HKT",
-   "status": "assigned",
-   "status_zh": "未交",
-   "status_en": "Assigned"
-  },
-  {
-   "course": "6C ART 26/27",
-   "title": "Mood board（新增，9 Oct 發布）",
-   "due_iso": "2026-10-12",
-   "due_display": "Mon 12 Oct 23:59 HKT",
+   "title": "W9 篇篇流螢（新增，10/12 08:01 發布）",
+   "due_iso": "2026-10-18",
+   "due_display": "Sunday 18 Oct 23:59 HKT",
    "status": "assigned",
    "status_zh": "未交",
    "status_en": "Assigned"
@@ -34,23 +25,38 @@
  "announcements": [
   {
    "course": "6C中文 2026-2027",
-   "title": "新公告：【第二次閱讀理解<一碗餛飩的溫度>答案】",
+   "title": "新公告：— unit writing assessment Wed 10/28，另 11.2 Monday（標題被截斷）",
+   "posted": "2026-10-12"
+  },
+  {
+   "course": "6C中文 2026-2027",
+   "title": "更新：加咗 PDF 答案",
+   "posted": "2026-10-11 (edited)"
+  },
+  {
+   "course": "6C History 2026-2027",
+   "title": "新公告：Alexander the Great Preparation work（PowerPoint）",
+   "posted": "2026-10-12"
+  },
+  {
+   "course": "26-27 6C Music",
+   "title": "新公告：6C Recess Recital 10/15 開始，每逢星期四小息 10:15–10:40，Activity Room 1，每位學生每學年參加兩次",
+   "posted": "2026-10-12"
+  },
+  {
+   "course": "6C中文 2026-2027",
+   "title": "新公告：",
    "posted": "2026-10-09"
   },
   {
    "course": "6C中文 2026-2027",
-   "title": "新公告：【中文手冊答案（不包括古文）】（會用中文手冊＋閱練溫習）",
+   "title": "新公告：",
    "posted": "2026-10-09"
   },
   {
    "course": "6C中文 2026-2027",
-   "title": "新公告：【文言文閱讀技巧】（附圖片）",
+   "title": "新公告：（附圖片）",
    "posted": "2026-10-09"
-  },
-  {
-   "course": "2627_6C Mathematics Secondary",
-   "title": "自願競賽：HKPMC 12/5（8:45–12:00，回條 10/14 前交）、AMC 10/12（11/6，報名已於 10/8 8am 截止）、TIMO、AI Math Olympiad",
-   "posted": "2026-10-02"
   },
   {
    "course": "6C中文 2026-2027",
@@ -89,42 +95,11 @@
   },
   {
    "course": "2627_6C Mathematics Secondary",
-   "title": "Thirteenth Annual Hong Kong Primary Mathematics Challenge（比賽 12/5 星期六 8:45–12:00，免費，回條 10/14 前交）",
-   "posted": "2026-10-02"
-  },
-  {
-   "course": "6C FTP and English",
-   "title": "BYOD scheme for secondary students（家長公告）",
-   "posted": "2026-09-30"
-  },
-  {
-   "course": "6C FTP and English",
-   "title": "Achieving Carbon Neutrality Student Ambassador 招募（10/7 前 email chans@cky.edu.hk）",
-   "posted": "2026-09-30"
-  },
-  {
-   "course": "6C中文 2026-2027",
-   "title": "：想、寫、改；格事言行；佳作賞析；學生描寫詞彙應用手冊",
-   "posted": "2026-09-30"
-  },
-  {
-   "course": "6C中文 2026-2027",
-   "title": "",
-   "posted": "2026-09-30"
-  }
- ],
- "materials": [
-  {
-   "course": "6C中文 2026-2027",
-   "title": "📚「篇篇流螢」網上閱讀計劃 10/5 正式啟動",
-   "posted": "2026-10-02"
-  },
-  {
-   "course": "6C中文 2026-2027",
-   "title": "閱讀護照計劃",
+   "title": "自願競賽：HKPMC 12/5（8:45–12:00，回條 10/14 前交）、AMC 10/12（11/6，報名已於 10/8 8am 截止）、TIMO、AI Math Olympiad",
    "posted": "2026-10-02"
   }
  ],
+ "materials": [],
  "grades": [],
  "calendar": [
   {
@@ -150,6 +125,12 @@
    "date_iso": "2026-10-18",
    "time": "",
    "title": "Chung Yeung Festival"
+  },
+  {
+   "date_display": "10月18日 星期日",
+   "date_iso": "2026-10-18",
+   "time": "23:58-23:59",
+   "title": "Assignment: W9 篇篇流螢"
   },
   {
    "date_display": "10月19日 星期一",
