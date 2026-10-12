@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12T16:18:52+08:00",
+ "updated_at": "2026-10-12T16:41:55+08:00",
  "source_checked_at": "2026-10-12T16:04:00+08:00",
  "notice": "資料由Manhattan先生每日整理推送，只讀",
  "homework": [
@@ -710,6 +710,21 @@
   "subjects": []
  },
  "study_plans": [
+  {
+   "date": "2026-10-12",
+   "date_display": "10月12日（星期一）",
+   "plan_text": "琛琛每日溫習計劃（10月12日，星期一）\n\n今晚要做：\n1. History 溫習：Historical skills（聽日 10/13（二）quiz，仲有 1 日）— 溫筆記＋今日新出嘅 Alexander the Great 預習材料，再做份練習紙\n2. W9篇篇流螢（中文，今日新派，10/18（日）23:59 到期）— 今晚做少少，唔好拖到週末\n3. 數學 UC02 Percentages（10/16（五）quiz，40分鐘，唔可用計數機，仲有 4 日）— 做份練習紙\n4. 英文 Dear Book log and Presentation（無到期日，繼續慢慢做）\n\n今晚時間表：\n- 19:00–19:30 History 溫習＋練習紙\n- 19:35–20:05 中文 W9篇篇流螢\n- 20:10–20:40 數學 Percentages 練習紙\n- 20:45–21:05 英文 Dear Book log\n\n測驗預告：\n- 10/13（二）History Quiz — Historical skills（聽日！）\n- 10/16（五）Math UC02 Percentages quiz（仲有 4 日）\n- 10/28（三）中文單元寫作評估（仲有 16 日）；11/2（一）中文另有安排（詳情未公布）\n- 10/15（四）起 Music Recess Recital，每週四小息舉行，每位學生每學年參加兩次\n- Music Individual Assessment — term break 後交 hard copy（日期未公布）\n\n提醒：\n- Missing 清單清空，無逾期未交功課\n- Classroom 16:04 之後無新發布\n\n練習紙（今日重新上載，有效期至 10/14）：\n- History（聽日小測用）：\nhttps://muse.ai/files/1341964712331253/1075334525124739/lfnlfcw3jnyom8ugamgy4qe4/history-historical-skills-practice-2026-10-06.pdf\n- 數學 Percentages（10/16 小測用）：\nhttps://muse.ai/files/1341964712331253/965261766050434/tibuiaxze269mz0m86ibiev4/math-percentages-practice-2026-10-09.pdf",
+   "links": [
+    {
+     "title": "History 練習紙（10/13 小測用，有效期至 10/14）",
+     "url": "https://muse.ai/files/1341964712331253/1075334525124739/lfnlfcw3jnyom8ugamgy4qe4/history-historical-skills-practice-2026-10-06.pdf"
+    },
+    {
+     "title": "數學 Percentages 練習紙（10/16 小測用，有效期至 10/14）",
+     "url": "https://muse.ai/files/1341964712331253/965261766050434/tibuiaxze269mz0m86ibiev4/math-percentages-practice-2026-10-09.pdf"
+    }
+   ]
+  },
   {
    "date": "2026-10-09",
    "date_display": "10月9日（星期五）",
