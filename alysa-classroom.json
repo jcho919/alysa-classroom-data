@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12T16:41:55+08:00",
+ "updated_at": "2026-10-12T17:20:12+08:00",
  "source_checked_at": "2026-10-12T16:04:00+08:00",
  "notice": "資料由Manhattan先生每日整理推送，只讀",
  "homework": [
@@ -103,22 +103,46 @@
  "grades": [],
  "calendar": [
   {
+   "date_iso": "2026-10-12",
+   "date_display": "10月12日 星期一",
+   "time": "",
+   "title": "📋 AMC 10/12（11/6，報名已於 10/8 8am 截止）"
+  },
+  {
    "date_display": "10月12日 星期一",
    "date_iso": "2026-10-12",
    "time": "",
    "title": "Columbus Day"
   },
   {
-   "date_display": "10月12日 星期一",
-   "date_iso": "2026-10-12",
-   "time": "23:58-23:59",
-   "title": "Assignment: Mood board"
+   "date_iso": "2026-10-13",
+   "date_display": "10月13日 星期二",
+   "time": "",
+   "title": "📋 History Quiz — Historical skills"
   },
   {
-   "date_display": "10月12日 星期一",
-   "date_iso": "2026-10-12",
-   "time": "23:58-23:59",
-   "title": "Assignment: W8篇篇流螢"
+   "date_iso": "2026-10-14",
+   "date_display": "10月14日 星期三",
+   "time": "",
+   "title": "📋 自願競賽：HKPMC 12/5（8:45–12:00，回條 10/14 前交）"
+  },
+  {
+   "date_iso": "2026-10-15",
+   "date_display": "10月15日 星期四",
+   "time": "",
+   "title": "🎵 Music Recess Recital（逢週四小息 10:15–10:40）"
+  },
+  {
+   "date_iso": "2026-10-16",
+   "date_display": "10月16日 星期五",
+   "time": "",
+   "title": "📋 數學 UC02 Percentages quiz（40分鐘，唔可用計數機）"
+  },
+  {
+   "date_iso": "2026-10-18",
+   "date_display": "10月18日 星期日",
+   "time": "",
+   "title": "📝 功課到期：6C中文 W9 篇篇流螢"
   },
   {
    "date_display": "10月18日 星期日",
@@ -127,16 +151,28 @@
    "title": "Chung Yeung Festival"
   },
   {
-   "date_display": "10月18日 星期日",
-   "date_iso": "2026-10-18",
-   "time": "23:58-23:59",
-   "title": "Assignment: W9 篇篇流螢"
-  },
-  {
    "date_display": "10月19日 星期一",
    "date_iso": "2026-10-19",
    "time": "",
    "title": "Day off for Chung Yeung Festival"
+  },
+  {
+   "date_iso": "2026-10-28",
+   "date_display": "10月28日 星期三",
+   "time": "",
+   "title": "📋 中文單元寫作評估 (Writing Assessment)"
+  },
+  {
+   "date_iso": "2026-11-06",
+   "date_display": "11月6日 星期五",
+   "time": "",
+   "title": "📋 AMC 10/12（11/6，報名已於 10/8 8am 截止）"
+  },
+  {
+   "date_iso": "2026-12-05",
+   "date_display": "12月5日 星期六",
+   "time": "",
+   "title": "📋 自願競賽：HKPMC 12/5（8:45–12:00，回條 10/14 前交）"
   }
  ],
  "timetable": {
