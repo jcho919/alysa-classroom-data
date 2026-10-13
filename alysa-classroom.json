@@ -1,145 +1,118 @@
 {
- "updated_at": "2026-10-12T21:00:46+08:00",
- "source_checked_at": "2026-10-12T16:04:00+08:00",
+ "updated_at": "2026-10-13T16:17:09+08:00",
+ "source_checked_at": "2026-10-13T16:08:00+08:00",
  "notice": "資料由Manhattan先生每日整理推送，只讀",
  "homework": [
   {
    "course": "6C中文 2026-2027",
-   "title": "W9 篇篇流螢（新增，10/12 08:01 發布）",
+   "title": "W9 篇篇流螢",
    "due_iso": "2026-10-18",
-   "due_display": "Sunday 18 Oct 23:59 HKT",
+   "due_display": "Sunday 18 Oct",
    "status": "assigned",
    "status_zh": "未交",
    "status_en": "Assigned"
   },
   {
-   "course": "6C FTP and English",
+   "course": "6C FTP and English Secondary",
    "title": "Dear Book log and Presentation",
    "due_iso": null,
-   "due_display": "No due date (posted 21 Aug)",
+   "due_display": "No due date (posted Friday 21 Aug)",
    "status": "assigned",
    "status_zh": "未交",
    "status_en": "Assigned"
+  },
+  {
+   "course": "6C ART 26/27",
+   "title": "Ceramic Research",
+   "due_iso": null,
+   "due_display": "",
+   "status": "missing",
+   "status_zh": "已逾期",
+   "status_en": "Missing"
   }
  ],
  "announcements": [
   {
-   "course": "6C中文 2026-2027",
-   "title": "【中文重要評估日子通知】",
-   "posted": "2026-10-12",
-   "body": "【中文重要評估日子通知】10.28 星期三 單元寫作評估，11.2 星期一 單元閱讀評估。請合理安排時間複習，加油！"
+   "course": "6C/6D STEM (2026-2027)",
+   "title": "Dear students, Please bring your laptop for next ICT/STEM lessons.",
+   "posted": "2026-10-13",
+   "body": "Dear students, Please bring your laptop for next ICT/STEM lessons. We will use laptops for every ICT/STEM lesson going forward. Reminders: • Charge laptop night before and pack it in your school bag • Form tutor should help you connect to school Wi-Fi, (if you still have issues please go to the IT department on the 3F as soon as possible during your free time) • Those still waiting for their laptop, you may share with your neighbour for now (bring a notebook for taking notes) Thank you and looking forward to our next lesson. Mr. Man."
   },
   {
-   "course": "6C中文 2026-2027",
-   "title": "【中文手冊答案（不包括古文）】",
-   "posted": "2026-10-11 (edited)",
-   "body": "【中文手冊答案（不包括古文）】親愛的同學們：課堂上我們已講評並訂正了中文手冊。如果你仍來不及全部訂正完，可以參考這份答案。加油！上官老師（附PDF：Y6中文單元學習手冊答案2026-27）"
+   "course": "6C ICT (2026-2027)",
+   "title": "Dear students, Please bring your laptop for next ICT/STEM lessons.",
+   "posted": "2026-10-13",
+   "body": "Dear students, Please bring your laptop for next ICT/STEM lessons. We will use laptops for every ICT/STEM lesson going forward. Reminders: • Charge laptop night before and pack it in your school bag • Form tutor should help you connect to school Wi-Fi, (if you still have issues please go to the IT department on the 3F as soon as possible during your free time) • Those still waiting for their laptop, you may share with your neighbour for now (bring a notebook for taking notes) Thank you and looking forward to our next lesson. Mr. Man.（cross-posted，與 STEM 同文）"
   },
   {
    "course": "6C History 2026-2027",
    "title": "Alexander the Great Preparation work",
    "posted": "2026-10-12",
-   "body": ""
+   "body": "（無正文）老師 class comment 08:00：Please write it in your notebooks, no need to hand this in, we will check our answers in class"
+  },
+  {
+   "course": "6C中文 2026-2027",
+   "title": "",
+   "posted": "2026-10-12",
+   "body": "10.28 星期三 單元寫作評估，11.2 星期一 單元閱讀評估。請合理安排時間複習，加油！"
   },
   {
    "course": "26-27 6C Music",
-   "title": "6C Recess Recital",
+   "title": "6C Recess Recital Start on this Thursday (15th Oct).",
    "posted": "2026-10-12",
-   "body": "6C Recess Recital Start on this Thursday (15th Oct). They will take place every Thursday during Recess (10:15-10:40) in Activity Room 1. Don't forget everyone need to take part twice in a year. Welcome to all of you! Miss Yip and I will be there! See you! Ms Tam"
+   "body": "Recess Recital Start on this Thursday (15th Oct). They will take place every Thursday during Recess (10:15-10:40) in Activity Room 1. Don't forget everyone need to take part twice in a year. Welcome to all of you! Miss Yip and I will be there! See you! Ms Tam（頁面顯示 \"Don't forget…\" 段落出現兩次）"
   },
   {
    "course": "6C中文 2026-2027",
-   "title": "【第二次閱讀理解<一碗餛飩的溫度>答案】",
+   "title": "",
    "posted": "2026-10-09",
-   "body": "【第二次閱讀理解<一碗餛飩的溫度>答案】詞語填空：A.嘮叨 B.漫無目的 C.驅散 D.哽咽 E.語重心長 F.徘徊；文本解讀：第1段吵架起因是做功課偷玩手機被母親發現；選擇題 (1)C (2)B (3)B (4)D；兩次流淚：第一次被老奶奶善意感動兼心懷委屈，第二次明白母親苦心感動又自責；寫作手法：動作/語言描寫，體現知錯能改、懂得感恩。"
+   "body": "（無文字正文，僅圖片附件：文言文閱讀技巧.jpeg）"
   },
   {
    "course": "6C中文 2026-2027",
-   "title": "新公告：",
+   "title": "",
+   "posted": "2026-10-09 (edited 2026-10-11)",
+   "body": "親愛的同學們：課堂上我們已講評並訂正了中文手冊。如果你仍來不及全部訂正完，可以參考這份答案。加油！上官老師（附PDF：Y6何紫單元學習手冊答案 2026-27（不包括古文））"
+  },
+  {
+   "course": "6C中文 2026-2027",
+   "title": "",
    "posted": "2026-10-09",
-   "body": ""
+   "body": "詞語填空：A.嘮叨 B.漫無目的 C.驅散 D.哽咽 E.語重心長 F.徘徊；文本解讀：第1段吵架起因是做功課偷玩手機被母親發現；選擇題 (1)C (2)B (3)B (4)D；兩次流淚：第一次被老奶奶善意感動兼心懷委屈，第二次明白母親苦心感動又自責；寫作手法：動作/語言描寫，體現知錯能改、懂得感恩。（10/13 檢查：公告仍在，未逐字重抄，全文見 Classroom）"
   },
   {
    "course": "6C中文 2026-2027",
-   "title": "【文言文閱讀技巧】",
-   "posted": "2026-10-09",
-   "body": ""
-  },
-  {
-   "course": "6C中文 2026-2027",
-   "title": "片段寫作評語及佳作欣賞",
+   "title": "親愛的同學們：",
    "posted": "2026-10-06",
-   "body": "親愛的同學們：老師已看完大家在簡報上完成的片段寫作，總體上進步了不少，表揚大家！老師已在簡報中留言評論，請同學們登入查看評論中的建議；同時，也可以查看其他同學的佳作（標註了EX或S/S+），從中學習。加油！期待你們的第二次課堂寫作練習能比第一次寫得好！"
-  },
-  {
-   "course": "6C中文 2026-2027",
-   "title": "【「六年級人物描寫練習指引」的權限】",
-   "posted": "2026-10-05",
-   "body": "【「六年級人物描寫練習指引」的權限】有同學反映今晚突然失去了進入簡報「六年級人物描寫練習指引」的權限，可能是因為功課起初模式設置問題，過了提交日期後權限失效。現在老師更新了權限，請直接點擊連結進入。以後要記得準時完成功課呀！"
-  },
-  {
-   "course": "6C中文 2026-2027",
-   "title": "【重要提醒：篇篇流螢登入帳號】",
-   "posted": "2026-10-05",
-   "body": "【重要提醒：篇篇流螢登入帳號】親愛的同學們：「篇篇流螢」的登入帳號：請把 @student.cky.edu.hk 改為 @chicul.edu.hk，密碼不變。謝謝！"
+   "body": "老師已看完大家在簡報上完成的片段寫作，總體上進步了不少，表揚大家！老師已在簡報中留言評論，請同學們登入查看評論中的建議；同時，也可以查看其他同學的佳作（標註了EX或S/S+），從中學習。加油！期待你們的第二次課堂寫作練習能比第一次寫得好！"
   },
   {
    "course": "6C History 2026-2027",
    "title": "History Quiz on Historical skills",
    "posted": "2026-10-06",
-   "body": "History Quiz on Historical skills. Date: October 13th 2026"
+   "body": "Date: October 13th 2026（今日舉行）"
   },
   {
    "course": "2627_6C Mathematics Secondary",
-   "title": "2nd UPDATED DATE! Due to scheduled vaccine, the date changed back to Friday.",
+   "title": "2nd UPDATED DATE!",
    "posted": "2026-10-06",
-   "body": "2nd UPDATED DATE! Due to scheduled vaccine, the date changed back to Friday. UC02 Percentages Date: 16 October (Week A Friday). Time allowed: 40 mins. Calculators not allowed."
+   "body": "Due to scheduled vaccine, the date changed back to Friday. UC02 Percentages Date: 16 October (Week A Friday). Time allowed: 40 mins. Calculators not allowed."
   },
   {
    "course": "26-27 6C Music",
-   "title": "Guidelines of Individual Assessment",
+   "title": "6C Guidelines of Individual Assessment",
    "posted": "2026-10-06",
-   "body": "Guidelines of Individual Assessment for your reference. Please submit hard copy for me after term break, not through the google classroom! Thank you so much! (Ms Tam)"
-  },
-  {
-   "course": "6C中文 2026-2027",
-   "title": "六年級人物描寫練習指引（Google Slides）",
-   "posted": "2026-10-05",
-   "body": ""
-  },
-  {
-   "course": "2627_6C Mathematics Secondary",
-   "title": "自願競賽：HKPMC 12/5（8:45–12:00，回條 10/14 前交）、AMC 10/12（11/6，報名已於 10/8 8am 截止）、TIMO、AI Math Olympiad",
-   "posted": "2026-10-02",
-   "body": ""
+   "body": "Guidelines of Individual Assessment for your reference. Please submit hard copy for me after term break, not through the google classroom! Thank you so much!（附件：poster year 6.docx）"
   }
  ],
  "materials": [],
  "grades": [],
  "calendar": [
   {
-   "date_iso": "2026-10-12",
-   "date_display": "10月12日 星期一",
-   "time": "",
-   "title": "📋 AMC 10/12（11/6，報名已於 10/8 8am 截止）"
-  },
-  {
-   "date_display": "10月12日 星期一",
-   "date_iso": "2026-10-12",
-   "time": "",
-   "title": "Columbus Day"
-  },
-  {
    "date_iso": "2026-10-13",
    "date_display": "10月13日 星期二",
    "time": "",
    "title": "📋 History Quiz — Historical skills"
-  },
-  {
-   "date_iso": "2026-10-14",
-   "date_display": "10月14日 星期三",
-   "time": "",
-   "title": "📋 自願競賽：HKPMC 12/5（8:45–12:00，回條 10/14 前交）"
   },
   {
    "date_iso": "2026-10-15",
@@ -176,18 +149,6 @@
    "date_display": "10月28日 星期三",
    "time": "",
    "title": "📋 中文單元寫作評估 (Writing Assessment)"
-  },
-  {
-   "date_iso": "2026-11-06",
-   "date_display": "11月6日 星期五",
-   "time": "",
-   "title": "📋 AMC 10/12（11/6，報名已於 10/8 8am 截止）"
-  },
-  {
-   "date_iso": "2026-12-05",
-   "date_display": "12月5日 星期六",
-   "time": "",
-   "title": "📋 自願競賽：HKPMC 12/5（8:45–12:00，回條 10/14 前交）"
   }
  ],
  "timetable": {
