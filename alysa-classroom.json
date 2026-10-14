@@ -1,17 +1,8 @@
 {
- "updated_at": "2026-10-13T16:46:31+08:00",
- "source_checked_at": "2026-10-13T16:08:00+08:00",
+ "updated_at": "2026-10-14T16:17:06+08:00",
+ "source_checked_at": "2026-10-14T16:10:00+08:00",
  "notice": "資料由Manhattan先生每日整理推送，只讀",
  "homework": [
-  {
-   "course": "6C中文 2026-2027",
-   "title": "W9 篇篇流螢",
-   "due_iso": "2026-10-18",
-   "due_display": "Sunday 18 Oct",
-   "status": "assigned",
-   "status_zh": "未交",
-   "status_en": "Assigned"
-  },
   {
    "course": "6C FTP and English Secondary",
    "title": "Dear Book log and Presentation",
@@ -22,16 +13,22 @@
    "status_en": "Assigned"
   },
   {
-   "course": "6C ART 26/27",
-   "title": "Ceramic Research",
-   "due_iso": null,
-   "due_display": "",
-   "status": "missing",
-   "status_zh": "已逾期",
-   "status_en": "Missing"
+   "course": "6C中文 2026-2027",
+   "title": "W9 篇篇流螢",
+   "due_iso": "2026-10-18",
+   "due_display": "Sunday 18 Oct",
+   "status": "assigned",
+   "status_zh": "未交",
+   "status_en": "Assigned"
   }
  ],
  "announcements": [
+  {
+   "course": "Y6 C/D 1 French 2026-2027",
+   "title": "",
+   "posted": "2026-10-13",
+   "body": "Hello, Please find attached the slide I want you to copy in your notebook during (or before) the mid-term break as I explained in class on Monday. Leave a half page empty before this slide as I need to add something that I want to do in class. Thanks（發件人 Damien Gailliardot；附件：La famille (the family).pdf；未顯示獨立標題）"
+  },
   {
    "course": "6C/6D STEM (2026-2027)",
    "title": "Dear students, Please bring your laptop for next ICT/STEM lessons.",
@@ -48,49 +45,43 @@
    "course": "6C History 2026-2027",
    "title": "Alexander the Great Preparation work",
    "posted": "2026-10-12",
-   "body": "（無正文）老師 class comment 08:00：Please write it in your notebooks, no need to hand this in, we will check our answers in class"
+   "body": "Alexander the Great Preparation work（無額外正文；附件：2.3 SS version_Prep task_True or False.pptx；發件人 Sam Wong）老師 class comment（2026-10-13）：Please write it in your notebooks, no need to hand this in, we will check our answers in class"
+  },
+  {
+   "course": "26-27 6C Music",
+   "title": "Recess Recital",
+   "posted": "2026-10-12",
+   "body": "6C Recess Recital Start on this Thursday (15th Oct). They will take place every Thursday during Recess (10:15-10:40) in Activity Room 1. Don't forget everyone need to take part twice in a year. Welcome to all of you! Miss Yip and I will be there! See you! Ms Tam（發件人 Kitty Tam）"
   },
   {
    "course": "6C中文 2026-2027",
    "title": "",
    "posted": "2026-10-12",
-   "body": "10.28 星期三 單元寫作評估，11.2 星期一 單元閱讀評估。請合理安排時間複習，加油！"
-  },
-  {
-   "course": "26-27 6C Music",
-   "title": "6C Recess Recital Start on this Thursday (15th Oct).",
-   "posted": "2026-10-12",
-   "body": "Recess Recital Start on this Thursday (15th Oct). They will take place every Thursday during Recess (10:15-10:40) in Activity Room 1. Don't forget everyone need to take part twice in a year. Welcome to all of you! Miss Yip and I will be there! See you! Ms Tam（頁面顯示 \"Don't forget…\" 段落出現兩次）"
+   "body": " 10.28 星期三 單元寫作評估 11.2 星期一 單元閱讀評估 請合理安排時間複習，加油！（發件人 Heidi Shangguan）"
   },
   {
    "course": "6C中文 2026-2027",
    "title": "",
    "posted": "2026-10-09",
-   "body": "（無文字正文，僅圖片附件：文言文閱讀技巧.jpeg）"
+   "body": "（無文字正文，僅圖片附件：文言文閱讀技巧.jpeg；發件人 Heidi Shangguan）"
   },
   {
    "course": "6C中文 2026-2027",
    "title": "",
    "posted": "2026-10-09 (edited 2026-10-11)",
-   "body": "親愛的同學們：課堂上我們已講評並訂正了中文手冊。如果你仍來不及全部訂正完，可以參考這份答案。加油！上官老師（附PDF：Y6何紫單元學習手冊答案 2026-27（不包括古文））"
+   "body": " 親愛的同學們： 課堂上我們已講評並訂正了中文手冊。如果你仍來不及全部訂正完，可以參考這份答案。加油！ 上官老師（附件PDF：Y6何紫單元學習手冊答案 2026-27（不包括古文）.pdf）"
   },
   {
    "course": "6C中文 2026-2027",
    "title": "",
    "posted": "2026-10-09",
-   "body": "詞語填空：A.嘮叨 B.漫無目的 C.驅散 D.哽咽 E.語重心長 F.徘徊；文本解讀：第1段吵架起因是做功課偷玩手機被母親發現；選擇題 (1)C (2)B (3)B (4)D；兩次流淚：第一次被老奶奶善意感動兼心懷委屈，第二次明白母親苦心感動又自責；寫作手法：動作/語言描寫，體現知錯能改、懂得感恩。（10/13 檢查：公告仍在，未逐字重抄，全文見 Classroom）"
-  },
-  {
-   "course": "6C中文 2026-2027",
-   "title": "親愛的同學們：",
-   "posted": "2026-10-06",
-   "body": "老師已看完大家在簡報上完成的片段寫作，總體上進步了不少，表揚大家！老師已在簡報中留言評論，請同學們登入查看評論中的建議；同時，也可以查看其他同學的佳作（標註了EX或S/S+），從中學習。加油！期待你們的第二次課堂寫作練習能比第一次寫得好！"
+   "body": "完整參考答案。詞語填空：A.嘮叨 B.漫無目的 C.驅散 D.哽咽 E.語重心長 F.徘徊；文本解讀題：參考答案；延伸思考題參考做法：主動幫母親做晚飯或寫感謝卡等。（10/13 全文已核對，見 Classroom）"
   },
   {
    "course": "6C History 2026-2027",
    "title": "History Quiz on Historical skills",
    "posted": "2026-10-06",
-   "body": "Date: October 13th 2026（今日舉行）"
+   "body": "Date: October 13th 2026（已舉行）"
   },
   {
    "course": "2627_6C Mathematics Secondary",
@@ -103,17 +94,17 @@
    "title": "6C Guidelines of Individual Assessment",
    "posted": "2026-10-06",
    "body": "Guidelines of Individual Assessment for your reference. Please submit hard copy for me after term break, not through the google classroom! Thank you so much!（附件：poster year 6.docx）"
+  },
+  {
+   "course": "6C中文 2026-2027",
+   "title": "親愛的同學們：",
+   "posted": "2026-10-06",
+   "body": "老師已看完大家在簡報上完成的片段寫作，總體上進步了不少，表揚大家！老師已在簡報中留言評論，請同學們登入查看評論中的建議；同時，也可以查看其他同學的佳作（標註了EX或S/S+），從中學習。加油！期待你們的第二次課堂寫作練習能比第一次寫得好！"
   }
  ],
  "materials": [],
  "grades": [],
  "calendar": [
-  {
-   "date_iso": "2026-10-13",
-   "date_display": "10月13日 星期二",
-   "time": "",
-   "title": "📋 History Quiz — Historical skills"
-  },
   {
    "date_iso": "2026-10-15",
    "date_display": "10月15日 星期四",
