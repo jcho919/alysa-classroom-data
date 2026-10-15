@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T16:16:48+08:00",
+ "updated_at": "2026-10-15T16:34:18+08:00",
  "source_checked_at": "2026-10-15T16:09:00+08:00",
  "notice": "資料由Manhattan先生每日整理推送，只讀",
  "homework": [
@@ -765,6 +765,17 @@
   "subjects": []
  },
  "study_plans": [
+  {
+   "date": "2026-10-15",
+   "date_display": "10月15日（星期四）",
+   "plan_text": "琛琛每日溫習計劃（10月15日，星期四）\n\n最急：\n- 中文「訂正年級詞語挑戰站」今晚 23:59 到期 — 今晚第一時間做完\n- 數學 UC02 Percentages 小測聽日（10/16 五），40分鐘，唔可用計數機 — 仲有1日\n\n今晚要做：\n1. 中文 訂正年級詞語挑戰站（今晚到期）\n2. 數學 Percentages 練習紙（聽日小測備戰）\n3. 中文 W9 篇篇流螢（10/18 日到期，仲有3日）\n4. 英文 Dear Book log and Presentation（繼續做）\n\n今晚時間表：\n- 19:00–19:35 中文 訂正年級詞語挑戰站\n- 19:40–20:20 數學 Percentages 練習紙\n- 20:25–20:55 中文 W9 篇篇流螢\n- 21:00–21:20 英文 Book log\n\n測驗預告：\n- 10/16（五）數學 UC02 Percentages quiz（聽日！）\n- 10/28（三）中文單元閱讀評估；11/2（一）中文單元寫作評估（日期已對調）\n- 10/19–10/23 中期假（唔使返學）；口語錄音功課（10/25到期）同 ICT Case Study（10/28到期）留假期做\n\n提醒：\n- Classroom 16:09 之後未能再核實（登入工作階段過期，需重新登入；本計劃以 16:09 已核實狀態為準）\n- Missing 已清空，無逾期未交功課\n- W8 預習《孫權勸學》喺 Assigned 同 Missing 都唔見咗，未能核實係咪已交 — 如未交請問老師\n- 每節 ICT/STEM 課帶 laptop，前一晚充電\n- 法文：將 'La famille' slide 抄入 notebook（中期假前/假期內完成）\n\n數學練習紙（連結有效期至 10/17 16:33）：\nhttps://muse.ai/files/1341964712331253/4086822481611790/tuslnwnmr5ldt2jf5ghzi3qm/math-percentages-practice-2026-10-09.pdf",
+   "links": [
+    {
+     "title": "數學 UC02 Percentages 練習紙（連結有效期至 10/17 16:33）",
+     "url": "https://muse.ai/files/1341964712331253/4086822481611790/tuslnwnmr5ldt2jf5ghzi3qm/math-percentages-practice-2026-10-09.pdf"
+    }
+   ]
+  },
   {
    "date": "2026-10-14",
    "date_display": "10月14日（星期三）",
