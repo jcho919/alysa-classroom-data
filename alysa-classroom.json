@@ -1,13 +1,13 @@
 {
- "updated_at": "2026-10-14T16:34:38+08:00",
- "source_checked_at": "2026-10-14T16:31:00+08:00",
+ "updated_at": "2026-10-15T16:16:48+08:00",
+ "source_checked_at": "2026-10-15T16:09:00+08:00",
  "notice": "資料由Manhattan先生每日整理推送，只讀",
  "homework": [
   {
-   "course": "6C FTP and English Secondary",
-   "title": "Dear Book log and Presentation",
-   "due_iso": null,
-   "due_display": "No due date (posted Friday 21 Aug)",
+   "course": "6C中文 2026-2027",
+   "title": "訂正年級詞語挑戰站",
+   "due_iso": "2026-10-15",
+   "due_display": "Today 23:59 (2026-10-15)",
    "status": "assigned",
    "status_zh": "未交",
    "status_en": "Assigned"
@@ -20,9 +20,48 @@
    "status": "assigned",
    "status_zh": "未交",
    "status_en": "Assigned"
+  },
+  {
+   "course": "6C中文 2026-2027",
+   "title": "口語功課：錄音《大林寺桃花》《春雪》《秋夕》",
+   "due_iso": "2026-10-25",
+   "due_display": "Sunday 25 Oct",
+   "status": "assigned",
+   "status_zh": "未交",
+   "status_en": "Assigned"
+  },
+  {
+   "course": "6C ICT (2026-2027)",
+   "title": "Digital Society: Case Study",
+   "due_iso": "2026-10-28",
+   "due_display": "Wednesday 28 Oct",
+   "status": "assigned",
+   "status_zh": "未交",
+   "status_en": "Assigned"
+  },
+  {
+   "course": "6C FTP and English Secondary",
+   "title": "Dear Book log and Presentation",
+   "due_iso": null,
+   "due_display": "No due date",
+   "status": "assigned",
+   "status_zh": "未交",
+   "status_en": "Assigned"
   }
  ],
  "announcements": [
+  {
+   "course": "6C中文 2026-2027",
+   "title": "",
+   "posted": "2026-10-15 10:47",
+   "body": "為留更充分時間準備寫作，經年級老師統一商量，閱讀與寫作評估日期對調：10.28 星期三 閱讀評估，11.2 星期一 寫作評估，請合理安排時間複習。（摘要，非全文）"
+  },
+  {
+   "course": "6C中文 2026-2027",
+   "title": "",
+   "posted": "2026-10-15 08:44",
+   "body": "鼓勵語＋溫習重點 PDF（摘要，非全文）"
+  },
   {
    "course": "Y6 C/D 1 French 2026-2027",
    "title": "",
@@ -49,7 +88,7 @@
   },
   {
    "course": "26-27 6C Music",
-   "title": "Recess Recital",
+   "title": "6C Recess Recital",
    "posted": "2026-10-12",
    "body": "6C Recess Recital Start on this Thursday (15th Oct). They will take place every Thursday during Recess (10:15-10:40) in Activity Room 1. Don't forget everyone need to take part twice in a year. Welcome to all of you! Miss Yip and I will be there! See you! Ms Tam（發件人 Kitty Tam）"
   },
@@ -78,12 +117,6 @@
    "body": "完整參考答案。詞語填空：A.嘮叨 B.漫無目的 C.驅散 D.哽咽 E.語重心長 F.徘徊；文本解讀題：參考答案；延伸思考題參考做法：主動幫母親做晚飯或寫感謝卡等。（10/13 全文已核對，見 Classroom）"
   },
   {
-   "course": "6C History 2026-2027",
-   "title": "History Quiz on Historical skills",
-   "posted": "2026-10-06",
-   "body": "Date: October 13th 2026（已舉行）"
-  },
-  {
    "course": "2627_6C Mathematics Secondary",
    "title": "2nd UPDATED DATE!",
    "posted": "2026-10-06",
@@ -94,17 +127,24 @@
    "title": "6C Guidelines of Individual Assessment",
    "posted": "2026-10-06",
    "body": "Guidelines of Individual Assessment for your reference. Please submit hard copy for me after term break, not through the google classroom! Thank you so much!（附件：poster year 6.docx）"
-  },
-  {
-   "course": "6C中文 2026-2027",
-   "title": "親愛的同學們：",
-   "posted": "2026-10-06",
-   "body": "老師已看完大家在簡報上完成的片段寫作，總體上進步了不少，表揚大家！老師已在簡報中留言評論，請同學們登入查看評論中的建議；同時，也可以查看其他同學的佳作（標註了EX或S/S+），從中學習。加油！期待你們的第二次課堂寫作練習能比第一次寫得好！"
   }
  ],
- "materials": [],
+ "materials": [
+  {
+   "course": "6C Drama",
+   "title": "Performance Rubric",
+   "posted": "2026-10-15 08:05",
+   "body": "Performance Rubric 教材（今日 08:05 發布）"
+  }
+ ],
  "grades": [],
  "calendar": [
+  {
+   "date_iso": "2026-10-15",
+   "date_display": "10月15日 星期四",
+   "time": "",
+   "title": "📝 功課到期：6C中文 訂正年級詞語挑戰站"
+  },
   {
    "date_iso": "2026-10-15",
    "date_display": "10月15日 星期四",
@@ -134,6 +174,18 @@
    "date_iso": "2026-10-19",
    "time": "",
    "title": "Day off for Chung Yeung Festival"
+  },
+  {
+   "date_iso": "2026-10-25",
+   "date_display": "10月25日 星期日",
+   "time": "",
+   "title": "📝 功課到期：6C中文 口語功課：錄音《大林寺桃花》《春雪》《秋夕》"
+  },
+  {
+   "date_iso": "2026-10-28",
+   "date_display": "10月28日 星期三",
+   "time": "",
+   "title": "📝 功課到期：6C ICT (2026-2027) Digital Society: Case Study"
   },
   {
    "date_iso": "2026-10-28",
