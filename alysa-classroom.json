@@ -1,22 +1,13 @@
 {
- "updated_at": "2026-10-15T16:34:18+08:00",
- "source_checked_at": "2026-10-15T16:09:00+08:00",
+ "updated_at": "2026-10-16T16:18:27+08:00",
+ "source_checked_at": "2026-10-16T16:07:00+08:00",
  "notice": "資料由Manhattan先生每日整理推送，只讀",
  "homework": [
   {
    "course": "6C中文 2026-2027",
-   "title": "訂正年級詞語挑戰站",
-   "due_iso": "2026-10-15",
-   "due_display": "Today 23:59 (2026-10-15)",
-   "status": "assigned",
-   "status_zh": "未交",
-   "status_en": "Assigned"
-  },
-  {
-   "course": "6C中文 2026-2027",
    "title": "W9 篇篇流螢",
    "due_iso": "2026-10-18",
-   "due_display": "Sunday 18 Oct",
+   "due_display": "Sunday 18 Oct 23:59",
    "status": "assigned",
    "status_zh": "未交",
    "status_en": "Assigned"
@@ -25,7 +16,7 @@
    "course": "6C中文 2026-2027",
    "title": "口語功課：錄音《大林寺桃花》《春雪》《秋夕》",
    "due_iso": "2026-10-25",
-   "due_display": "Sunday 25 Oct",
+   "due_display": "Sunday 25 Oct 23:59",
    "status": "assigned",
    "status_zh": "未交",
    "status_en": "Assigned"
@@ -34,7 +25,7 @@
    "course": "6C ICT (2026-2027)",
    "title": "Digital Society: Case Study",
    "due_iso": "2026-10-28",
-   "due_display": "Wednesday 28 Oct",
+   "due_display": "Wednesday 28 Oct 23:59",
    "status": "assigned",
    "status_zh": "未交",
    "status_en": "Assigned"
@@ -50,6 +41,24 @@
   }
  ],
  "announcements": [
+  {
+   "course": "2627_6C Mathematics Secondary",
+   "title": "UC03 Simple Equations",
+   "posted": "2026-10-16 15:03",
+   "body": "Unit Check 03 Simple Equations Date: 6 Nov, 2026. 30題、40分鐘，測驗期間獨立完成，唔可用計數機。（摘要，非全文）"
+  },
+  {
+   "course": "6C Integrated Science 2026-2027",
+   "title": "Matter unit ppt",
+   "posted": "2026-10-16 14:50",
+   "body": "無正文，僅附件：1.IS Unit_ Matter and Materials_Part 2.pptx、2.IS Unit_ Matter and Materials_Part 1.pptx"
+  },
+  {
+   "course": "6C中國歷史 2026-2027",
+   "title": "中國歷史戶外研習先導資料（第二冊P.2-4）",
+   "posted": "2026-09-11",
+   "body": "請細讀附件一戶外研習先導資料（第二冊P.2-4）後回答有關題目，10月30日或之前把答案寫在筆記簿上；戶外研習後要交的課業也是先導資料的題目，宜及早完成。（摘要，非全文）"
+  },
   {
    "course": "6C中文 2026-2027",
    "title": "",
@@ -139,18 +148,6 @@
  ],
  "grades": [],
  "calendar": [
-  {
-   "date_iso": "2026-10-15",
-   "date_display": "10月15日 星期四",
-   "time": "",
-   "title": "📝 功課到期：6C中文 訂正年級詞語挑戰站"
-  },
-  {
-   "date_iso": "2026-10-15",
-   "date_display": "10月15日 星期四",
-   "time": "",
-   "title": "🎵 Music Recess Recital（逢週四小息 10:15–10:40）"
-  },
   {
    "date_iso": "2026-10-16",
    "date_display": "10月16日 星期五",
