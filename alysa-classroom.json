@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-16T16:18:27+08:00",
+ "updated_at": "2026-10-16T16:22:43+08:00",
  "source_checked_at": "2026-10-16T16:07:00+08:00",
  "notice": "資料由Manhattan先生每日整理推送，只讀",
  "homework": [
@@ -161,16 +161,16 @@
    "title": "📝 功課到期：6C中文 W9 篇篇流螢"
   },
   {
-   "date_display": "10月18日 星期日",
    "date_iso": "2026-10-18",
-   "time": "",
-   "title": "Chung Yeung Festival"
+   "date_display": "10月18日 星期日",
+   "title": "Chung Yeung Festival",
+   "time": ""
   },
   {
-   "date_display": "10月19日 星期一",
    "date_iso": "2026-10-19",
-   "time": "",
-   "title": "Day off for Chung Yeung Festival"
+   "date_display": "10月19日 星期一",
+   "title": "Day off for Chung Yeung Festival",
+   "time": ""
   },
   {
    "date_iso": "2026-10-25",
