@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-27T16:35:29+08:00",
- "source_checked_at": "2026-10-27T16:01:00+08:00",
+ "updated_at": "2026-10-28T16:36:40+08:00",
+ "source_checked_at": "2026-10-28T16:34:30+08:00",
  "notice": "資料由Manhattan先生每日整理推送，只讀",
  "homework": [
   {
@@ -24,14 +24,32 @@
  ],
  "announcements": [
   {
-   "course": "6C中文 2026-2027",
-   "title": "通知：世界閱讀日比賽",
-   "posted": "2026-10-27 15:56",
-   "body": "\n親愛的同學們：\n一年一度的世界閱讀日比賽開始啦！每年參賽的同學都獲得了很不錯的成績，作品也會在香港各圖書館展出，大家都行動起來吧！\n針對是次比賽，我們會舉辦簡介會，之後同學可到圖書館進行選書。請同學記得攜帶借書卡。\n日期：11月12日(週四)\n時間：小息 (10:15- 10:40am)\n地點：演講廳（六樓LT）門口集合\n如同學未能參加，也可使用家中的圖書。\n請注意：校內提交和選拔的截止日期是12月11日 (星期五)。請將作文的電子版上傳到你所在班別的中文Google教室。\n（如獲選，報名表格會在之後讓同學交回請務必妥善保存，字數、負責老師及電郵請先留空，不必填寫，其他信息可認真填好。）\n如有問題，可聯繫各級負責老師：\nY6：莊玉婷老師 kinda_chong@cky.edu.hk\nY7: 董雅峰老師 dong1@cky.edu.hk\n期待同學的積極參與！\n中文部寫作組老師"
+   "course": "6C History 2026-2027",
+   "title": "Openbook assessment Syllabus",
+   "posted": "2026-10-28 16:06",
+   "body": ""
+  },
+  {
+   "course": "2627_6C Mathematics",
+   "title": "",
+   "posted": "2026-10-28 07:56",
+   "body": "Dear Students,\nPlease be advised that your USERNAME for the Modern Secondary mathematics e-resources found at https://www.mers.hk/platform/ssmaths/index.php is ckysXXXXXXXXXX where XXXXXXXXXX = your first 10 characters of your student email before the @.\ne.g. if your student email is s201801234@student.cky.edu.hk, your USERNAME is ckyss201801234\nYou will receive the password via email from the ict_team at a later date."
   },
   {
    "course": "6C中文 2026-2027",
-   "title": "期末評估圖書題範圍",
+   "title": "",
+   "posted": "2026-10-27",
+   "body": "\n親愛的同學們：\n一年一度的世界閱讀日比賽開始啦！每年參賽的同學都獲得了很不錯的成績，作品也會在香港各圖書館展出，大家都行動起來吧！\n針對是次比賽，我們會舉辦簡介會，之後同學可到圖書館進行選書。請同學記得攜帶借書卡。\n日期：11月12日(週四)\n時間：小息 (10:15- 10:40am)\n地點：演講廳（六樓LT）門口集合\n如同學未能參加，也可使用家中的圖書。\n請注意：校內提交和選拔的截止日期是12月11日 (星期五)。請將作文的電子版上傳到你所在班別的中文Google教室。\n（如獲選，報名表格會在之後讓同學交回請務必妥善保存，字數、負責老師及電郵請先留空，不必填寫，其他信息可認真填好。）\n如有問題，可聯繫各級負責老師：\nY6：莊玉婷老師 kinda_chong@cky.edu.hk\nY7: 董雅峰老師 dong1@cky.edu.hk\n期待同學的積極參與！\n中文部寫作組老師"
+  },
+  {
+   "course": "6C中國歷史 2026-2027",
+   "title": "",
+   "posted": "2026-10-27",
+   "body": "親愛的六年級同學﹕\n請留意以下中國歷史期中小測安排。\n日期：11月2-6日的中史課上\n時長：20分鐘\n範圍：中國歷史課本P8-15+中國史地基礎工作紙\n形式：開卷（可以帶課本、筆記和工作紙作為參考）\n六年級中國歷史老師"
+  },
+  {
+   "course": "6C中文 2026-2027",
+   "title": "",
    "posted": "2026-10-26 09:47",
    "body": "《老師不要走》《品學兼優》《我的筆友》《貼堂的作文》《同根的孩子》"
   },
@@ -54,7 +72,14 @@
    "body": "3 Math Competition information, Sign up for any that you may interested in.（附件 PDF：Oct2026 competitions.pdf）"
   }
  ],
- "materials": [],
+ "materials": [
+  {
+   "course": "6C/6D STEM (2026-2027)",
+   "title": "IR Sensors",
+   "posted": "2026-10-28 11:57",
+   "body": "Students,\nThe lesson about IR Sensors for our project and the starter code to test the IR Sensor.\nMr. Man."
+  }
+ ],
  "grades": [],
  "calendar": [
   {
