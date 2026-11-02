@@ -1,22 +1,31 @@
 {
- "updated_at": "2026-10-28T17:24:59+08:00",
- "source_checked_at": "2026-10-28T16:45:00+08:00",
+ "updated_at": "2026-11-02T16:17:59+08:00",
+ "source_checked_at": "2026-11-02T16:06:00+08:00",
  "notice": "資料由Manhattan先生每日整理推送，只讀",
  "homework": [
   {
-   "course": "2627_6C Mathematics",
-   "title": "Unit02 Unit Challenge correction and parent signature",
+   "course": "6C MECS",
+   "title": "Introduction to 6C's MECS lessons",
+   "due_iso": null,
+   "due_display": "No due date",
+   "status": "assigned",
+   "status_zh": "未交",
+   "status_en": "Assigned"
+  },
+  {
+   "course": "2627_6C Mathematics Secondary",
+   "title": "Unit02_P1_Section E ( 2 )",
    "due_iso": "2026-11-02",
-   "due_display": "Monday 2 Nov 23:59",
+   "due_display": "Today, 23:59",
    "status": "assigned",
    "status_zh": "未交",
    "status_en": "Assigned"
   },
   {
    "course": "6C FTP and English Secondary",
-   "title": "Dear Book log and Presentation",
-   "due_iso": null,
-   "due_display": "No due date",
+   "title": "W12 (2026/11/08) Reading Comprehension (Textbook P.40-43)",
+   "due_iso": "2026-11-09",
+   "due_display": "Nov 9, 23:59",
    "status": "assigned",
    "status_zh": "未交",
    "status_en": "Assigned"
@@ -25,110 +34,116 @@
  "announcements": [
   {
    "course": "6C History 2026-2027",
-   "title": "Openbook assessment Syllabus",
-   "posted": "2026-10-28 16:06",
-   "body": "Openbook assessment Syllabus (attachment: 2026-27 T1 Openbook Assessment Syllabus.docx; announcement body showed no further text)"
+   "title": "PEE paragraph practice",
+   "posted": "2026-11-02 14:53",
+   "body": "动态页除标题外未显示其他正文；附件：PEE paragraph practice.pdf"
   },
   {
-   "course": "2627_6C Mathematics",
-   "title": "Mathematics e-resources account notice",
-   "posted": "2026-10-28 07:56",
-   "body": "Mathematics e-resources account notice; password to arrive via email from ict_team at a later date"
+   "course": "6C FTP and English Secondary",
+   "title": "Info slide",
+   "posted": "2026-11-02 09:43",
+   "body": "动态页除标题 Info slide 外未显示其他正文"
   },
   {
-   "course": "6C History 2026-2027",
-   "title": "Openbook assessment Syllabus",
-   "posted": "2026-10-28 16:06",
-   "body": ""
+   "course": "6C Integrated Science 2026-2027",
+   "title": "Hi 6C, Some of you are asking about laptop next week",
+   "posted": "2026-11-01",
+   "body": "Hi 6C, Some of you are asking about laptop next week • Monday 2/11 you will NOT need your laptop as you will be finishing your concept check and the cover teacher will go thru it with you. However, you will need your laptop on Tuesday and Thursday lessons as you will be reading in kerboodle and working on your reference sheet. Have a nice week! Ms Ng"
   },
   {
-   "course": "2627_6C Mathematics",
-   "title": "",
-   "posted": "2026-10-28 07:56",
-   "body": "Dear Students,\nPlease be advised that your USERNAME for the Modern Secondary mathematics e-resources found at https://www.mers.hk/platform/ssmaths/index.php is ckysXXXXXXXXXX where XXXXXXXXXX = your first 10 characters of your student email before the @.\ne.g. if your student email is s201801234@student.cky.edu.hk, your USERNAME is ckyss201801234\nYou will receive the password via email from the ict_team at a later date."
+   "course": "2627 6C Geography",
+   "title": "Dear 6C, Please find attached the map skills assessment for Monday November 9th.",
+   "posted": "2026-10-31",
+   "body": "Dear 6C, Please find attached the map skills assessment for Monday November 9th. I suggest you print this copy and use it to revise. Kind regards, Mr Tse"
   },
   {
-   "course": "6C中文 2026-2027",
-   "title": "",
-   "posted": "2026-10-27",
-   "body": "\n親愛的同學們：\n一年一度的世界閱讀日比賽開始啦！每年參賽的同學都獲得了很不錯的成績，作品也會在香港各圖書館展出，大家都行動起來吧！\n針對是次比賽，我們會舉辦簡介會，之後同學可到圖書館進行選書。請同學記得攜帶借書卡。\n日期：11月12日(週四)\n時間：小息 (10:15- 10:40am)\n地點：演講廳（六樓LT）門口集合\n如同學未能參加，也可使用家中的圖書。\n請注意：校內提交和選拔的截止日期是12月11日 (星期五)。請將作文的電子版上傳到你所在班別的中文Google教室。\n（如獲選，報名表格會在之後讓同學交回請務必妥善保存，字數、負責老師及電郵請先留空，不必填寫，其他信息可認真填好。）\n如有問題，可聯繫各級負責老師：\nY6：莊玉婷老師 kinda_chong@cky.edu.hk\nY7: 董雅峰老師 dong1@cky.edu.hk\n期待同學的積極參與！\n中文部寫作組老師"
+   "course": "2627 6C Geography",
+   "title": "Dear Year 6C, Please note that on Monday November 9th we will have our 10 mark quiz on map skills.",
+   "posted": "2026-10-31",
+   "body": "Dear Year 6C, Please note that on Monday November 9th we will have our 10 mark quiz on map skills. Please ensure that you cover the skills that we learnt so far. Kind regards, Mr Tse"
   },
   {
-   "course": "6C中國歷史 2026-2027",
-   "title": "",
-   "posted": "2026-10-27",
-   "body": "親愛的六年級同學﹕\n請留意以下中國歷史期中小測安排。\n日期：11月2-6日的中史課上\n時長：20分鐘\n範圍：中國歷史課本P8-15+中國史地基礎工作紙\n形式：開卷（可以帶課本、筆記和工作紙作為參考）\n六年級中國歷史老師"
+   "course": "6CD Girls PE 2026-2027",
+   "title": "Dear all, Swimming lessons will start next week (6/11/2026).",
+   "posted": "2026-10-30",
+   "body": "Dear all, Swimming lessons will start next week (6/11/2026). Please prepare your swimming suits, swimming caps and goggles, and bring them to school: Please be reminded that in order to enter the swimming pool, students need to be properly dressed with a swimming cap. Please also remember to bring along a towel and a set of clean and dry clothes (including underwear) to change into after swimming. If you are unable to swim on that day, please provide a parent's note in student diary. A makeup lesson will be arranged at a later date. Regards, Ms Yau"
   },
   {
-   "course": "6C中文 2026-2027",
-   "title": "",
-   "posted": "2026-10-26 09:47",
-   "body": "《老師不要走》《品學兼優》《我的筆友》《貼堂的作文》《同根的孩子》"
-  },
-  {
-   "course": "6C中文 2026-2027",
-   "title": "",
-   "posted": "2026-10-26 08:02",
-   "body": "請同學們打開以下連結，完成寫作《一個______的人》修改稿+電子謄文。加油！\n功課截止日期：10月29日星期四中午12:00（當日放假）\n連結：https://docs.google.com/document/d/1QXGR_0khDAXDUeDg_SiFIqDQ83UXT8CGNKT3WujPRU8/edit?usp=sharing"
+   "course": "2627_6C Mathematics Secondary",
+   "title": "Dear Students, Please be advised that your USERNAME for Mathspace is ckysXXXXXXXXXX where XXXXXXXXXX is your student number",
+   "posted": "2026-10-28 16:30",
+   "body": "Dear Students, Please be advised that your USERNAME for Mathspace is ckysXXXXXXXXXX where XXXXXXXXXX is your student number. e.g. if your school email is s201801234@student.cky.edu.hk, your USERNAME is ckyss201801234 You will receive your password via email from ict_team at a later date. Thank you!"
   },
   {
    "course": "6C中國歷史 2026-2027",
-   "title": "",
-   "posted": "2026-10-26 14:31",
-   "body": "親愛的六年級同學﹕\n請留意以下中國歷史期中小測安排。\n日期：11月2-6日的中史課上\n時長：20分鐘\n範圍：中國歷史課本P8-15+中國史地基礎工作紙\n形式：開卷（可以帶課本、筆記和工作紙作為參考）\n六年級中國歷史老師"
+   "title": "中國歷史科測驗",
+   "posted": "2026-10-27",
+   "body": "各位同學： 中國歷史科將於11月2-6日進行測驗，詳情如下： 測驗日期：11月2-6日 測驗時間：15分鐘 測驗形式：選擇題及問答題（中、英對照） 測驗範圍： 單元二：秦朝 – 統一、鞏固與衰亡 (課文P.4-44) 課堂筆記 課堂工作紙 課堂小測及堂課 請同學努力溫習。 中國歷史科老師"
   },
   {
-   "course": "2627_6C Mathematics",
-   "title": "",
+   "course": "6C中文 2026-2027",
+   "title": "世界圖書日",
+   "posted": "2026-10-27",
+   "body": "親愛的六年級同學： 早晨，經過六年級中文科老師和圖書館老師的討論，現在宣佈以下安排： 圖書館將於11月2日至6日進行最後一次借書活動…… 學生如果有興趣，請在以下時間到圖書館借書。請參考以下連結並填寫表格： https://forms.gle/5H6JkqANRqej6uA17 謝謝！ 中文科老師（动态中以省略号显示，未能进一步确认省略号后内容）"
+  },
+  {
+   "course": "6C中國歷史 2026-2027",
+   "title": "中國歷史科測驗",
    "posted": "2026-10-26",
-   "body": "3 Math Competition information, Sign up for any that you may interested in.（附件 PDF：Oct2026 competitions.pdf）"
+   "body": "各位同學： 中國歷史科將於11月2-6日進行測驗，詳情如下： 測驗日期：11月2-6日 測驗時間：15分鐘 測驗形式：選擇題及問答題（中、英對照） 測驗範圍： 單元二：秦朝 – 統一、鞏固與衰亡 (課文P.4-44) 課堂筆記 課堂工作紙 課堂小測及堂課 請同學努力溫習。 中國歷史科老師（与 10 月 27 日同名公告正文相同，页面上出现两次）"
+  },
+  {
+   "course": "2627_6C Mathematics Secondary",
+   "title": "3 Math Competition information, Sign up for any that you may interested in.",
+   "posted": "2026-10-26",
+   "body": "动态中除标题外未显示其他正文；附件：2026 Math Competition Info.pdf"
   }
  ],
  "materials": [
   {
-   "course": "6C/6D STEM (2026-2027)",
-   "title": "IR Sensors",
-   "posted": "2026-10-28 11:57",
-   "body": "New material: IR Sensors"
+   "course": "2627 6C Geography",
+   "title": "Y6 revision questions – Map Skills",
+   "posted": "2026-10-31",
+   "body": "动态中未显示正文；资料：Y6 revision questions – Map Skills；2025-2026 6C Geo revision exercises for map skills；6C Geography revision timetable；Map Skills Assessment"
   },
   {
    "course": "6C/6D STEM (2026-2027)",
    "title": "IR Sensors",
-   "posted": "2026-10-28 11:57",
-   "body": "Students,\nThe lesson about IR Sensors for our project and the starter code to test the IR Sensor.\nMr. Man."
+   "posted": "2026-10-28 12:32",
+   "body": "动态中未显示正文"
   }
  ],
  "grades": [],
  "calendar": [
   {
-   "date_iso": "2026-10-28",
-   "date_display": "10月28日 星期三",
-   "time": "",
-   "title": "📋 中文單元寫作評估 (Writing Assessment)"
-  },
-  {
-   "date_display": "10月31日 星期六",
-   "date_iso": "2026-10-31",
-   "time": "",
-   "title": "Halloween"
-  },
-  {
-   "date_display": "11月1日 星期日",
-   "date_iso": "2026-11-01",
-   "time": "",
-   "title": "Daylight Saving Time ends"
-  },
-  {
    "date_iso": "2026-11-02",
    "date_display": "11月2日 星期一",
    "time": "",
-   "title": "📝 功課到期：2627_6C Mathematics Unit02 Unit Challenge correction and parent …"
+   "title": "📝 功課到期：2627_6C Mathematics Secondary Unit02_P1_Section E ( 2 )"
   },
   {
    "date_display": "11月3日 星期二",
    "date_iso": "2026-11-03",
    "time": "",
    "title": "Election Day"
+  },
+  {
+   "date_iso": "2026-11-09",
+   "date_display": "11月9日 星期一",
+   "time": "",
+   "title": "📝 功課到期：6C FTP and English Secondary W12 (2026/11/08) Reading Comprehension (Text…"
+  },
+  {
+   "date_iso": "2026-11-09",
+   "date_display": "11月9日 星期一",
+   "time": "",
+   "title": "📋 Dear 6C, Please find attached the map skills…"
+  },
+  {
+   "date_display": "11月11日 星期三",
+   "date_iso": "2026-11-11",
+   "time": "",
+   "title": "Veterans Day"
   }
  ],
  "timetable": {
