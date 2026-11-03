@@ -1,11 +1,11 @@
 {
- "updated_at": "2026-11-02T16:37:07+08:00",
- "source_checked_at": "2026-11-02T16:06:00+08:00",
+ "updated_at": "2026-11-03T16:18:32+08:00",
+ "source_checked_at": "2026-11-03T16:07:00+08:00",
  "notice": "資料由Manhattan先生每日整理推送，只讀",
  "homework": [
   {
-   "course": "6C MECS",
-   "title": "Introduction to 6C's MECS lessons",
+   "course": "6C FTP and English Secondary",
+   "title": "Dear Book log and Presentation",
    "due_iso": null,
    "due_display": "No due date",
    "status": "assigned",
@@ -13,36 +13,51 @@
    "status_en": "Assigned"
   },
   {
-   "course": "2627_6C Mathematics Secondary",
-   "title": "Unit02_P1_Section E ( 2 )",
-   "due_iso": "2026-11-02",
-   "due_display": "Today, 23:59",
+   "course": "6C中文 2026-2027",
+   "title": "W12篇篇流螢",
+   "due_iso": "2026-11-08",
+   "due_display": "Due 8 Nov, 23:59",
    "status": "assigned",
    "status_zh": "未交",
    "status_en": "Assigned"
   },
   {
-   "course": "6C FTP and English Secondary",
-   "title": "W12 (2026/11/08) Reading Comprehension (Textbook P.40-43)",
-   "due_iso": "2026-11-09",
-   "due_display": "Nov 9, 23:59",
+   "course": "Y6 C/D 1 French 2026-2027",
+   "title": "Homework",
+   "due_iso": "2026-11-08",
+   "due_display": "Due 8 Nov, 23:59",
    "status": "assigned",
    "status_zh": "未交",
    "status_en": "Assigned"
+  },
+  {
+   "course": "2627_6C Mathematics Secondary",
+   "title": "Unit02 Unit Challenge correction and parent signature",
+   "due_iso": "2026-11-02",
+   "due_display": "Due 2 Nov, 23:59",
+   "status": "missing",
+   "status_zh": "已逾期",
+   "status_en": "Missing"
   }
  ],
  "announcements": [
   {
    "course": "6C History 2026-2027",
    "title": "PEE paragraph practice",
-   "posted": "2026-11-02 14:53",
-   "body": "动态页除标题外未显示其他正文；附件：PEE paragraph practice.pdf"
+   "posted": "2026-11-02",
+   "body": "动态页除标题外未显示其他正文；附件标题在 Stream 中被截断显示为 Rubric for PEE paragraph -…，完整文件名未核实"
   },
   {
    "course": "6C FTP and English Secondary",
    "title": "Info slide",
-   "posted": "2026-11-02 09:43",
-   "body": "动态页除标题 Info slide 外未显示其他正文"
+   "posted": "2026-11-02",
+   "body": "动态页除标题 Info slide 外未显示其他正文；附件：[Y6] T1 Formative Assessment - WRITING (Info Slide)"
+  },
+  {
+   "course": "6C中文 2026-2027",
+   "title": "【2027 《AI中文故事繪》比賽】",
+   "posted": "2026-11-02",
+   "body": "各位同學： 學年伊始，學校安排參與《AI中文故事繪》比賽，鼓勵同學利用生成式AI創作，結合寫作、藝術和科技，培養創意與數位素養。 比賽詳情： 主題：未來生活 日期：2025年11月14日（星期五）前完成作品並提交。 注意：請勿使用不當內容或抄襲他人作品。 期待同學們踴躍參加，發揮創意！"
   },
   {
    "course": "6C Integrated Science 2026-2027",
@@ -52,9 +67,9 @@
   },
   {
    "course": "2627 6C Geography",
-   "title": "Dear 6C, Please find attached the map skills assessment for Monday November 9th.",
+   "title": "Dear Year 6C, In three weeks (24 November), you will have your end of Unit test on mapping skills.",
    "posted": "2026-10-31",
-   "body": "Dear 6C, Please find attached the map skills assessment for Monday November 9th. I suggest you print this copy and use it to revise. Kind regards, Mr Tse"
+   "body": "Dear Year 6C, In three weeks (24 November), you will have your end of Unit test on mapping skills. I have attached a guidance sheet that explains the different levels and what you should aim for in this unit. There are two other steps that you should be taking: 1. Keep up to date with your class work. 2. Make sure you read your class notes and the summary notes in the textbook. 3. Complete the practice exercises in the textbook and on Google Classroom. 4. Ask for help if you need it. Kind regards, Mr Tse 附件：Guidance Sheet - Level Descriptors 2025-26.pdf"
   },
   {
    "course": "2627 6C Geography",
@@ -63,64 +78,58 @@
    "body": "Dear Year 6C, Please note that on Monday November 9th we will have our 10 mark quiz on map skills. Please ensure that you cover the skills that we learnt so far. Kind regards, Mr Tse"
   },
   {
+   "course": "2627 6C Geography",
+   "title": "Dear 6C, Please find attached the map skills assessment for Monday November 9th.",
+   "posted": "2026-10-31",
+   "body": "Dear 6C, Please find attached the map skills assessment for Monday November 9th. I suggest you print this copy and use it to revise. Kind regards, Mr Tse"
+  },
+  {
    "course": "6CD Girls PE 2026-2027",
    "title": "Dear all, Swimming lessons will start next week (6/11/2026).",
    "posted": "2026-10-30",
-   "body": "Dear all, Swimming lessons will start next week (6/11/2026). Please prepare your swimming suits, swimming caps and goggles, and bring them to school: Please be reminded that in order to enter the swimming pool, students need to be properly dressed with a swimming cap. Please also remember to bring along a towel and a set of clean and dry clothes (including underwear) to change into after swimming. If you are unable to swim on that day, please provide a parent's note in student diary. A makeup lesson will be arranged at a later date. Regards, Ms Yau"
+   "body": "Dear all, Swimming lessons will start next week (6/11/2026). Please prepare your swimsuit, goggles, swim cap, towel, and a plastic bag for wet items. The first lesson will be on Friday, 6/11/2026, while the second lesson will be on Friday, 13/11/2026. If you are unable to attend the swimming lesson due to illness, please remember to write a note in your student diary. A makeup lesson will be arranged at a later date. Regards, Ms Yau"
+  },
+  {
+   "course": "6C History 2026-2027",
+   "title": "Alexander the Great PEE Paragraph",
+   "posted": "2026-10-28",
+   "body": "Use your computers to research the details for Alexander the Great and find evidence for whether he was great or not. I will advise you to write an draft on your notebooks before writing it on your lined paper for submission. Let another classmate read it and mark it using the rubric. Formative/Question: To what extent was Alexander the Great ‘great’? Due date: November 11th, 2026"
+  },
+  {
+   "course": "6C History 2026-2027",
+   "title": "Openbook assessment Syllabus",
+   "posted": "2026-10-28",
+   "body": "动态中除标题外未显示其他正文；附件：Open-book assessment - Syllabus 2627 (2)"
+  },
+  {
+   "course": "2627_6C Mathematics Secondary",
+   "title": "Dear 6C, Some of you have submitted your Unit Challenge correction without parent signature.",
+   "posted": "2026-10-28",
+   "body": "Dear 6C, Some of you have submitted your Unit Challenge correction without parent signature. I have returned those assignments to you. Please hand in your Unit Challenge correction with parent signature by tomorrow (Oct 29) morning before school starts. Note: No parent signature = incomplete work = no marks."
   },
   {
    "course": "2627_6C Mathematics Secondary",
    "title": "Dear Students, Please be advised that your USERNAME for Mathspace is ckysXXXXXXXXXX where XXXXXXXXXX is your student number",
    "posted": "2026-10-28 16:30",
    "body": "Dear Students, Please be advised that your USERNAME for Mathspace is ckysXXXXXXXXXX where XXXXXXXXXX is your student number. e.g. if your school email is s201801234@student.cky.edu.hk, your USERNAME is ckyss201801234 You will receive your password via email from ict_team at a later date. Thank you!"
-  },
-  {
-   "course": "6C中國歷史 2026-2027",
-   "title": "中國歷史科測驗",
-   "posted": "2026-10-27",
-   "body": "各位同學： 中國歷史科將於11月2-6日進行測驗，詳情如下： 測驗日期：11月2-6日 測驗時間：15分鐘 測驗形式：選擇題及問答題（中、英對照） 測驗範圍： 單元二：秦朝 – 統一、鞏固與衰亡 (課文P.4-44) 課堂筆記 課堂工作紙 課堂小測及堂課 請同學努力溫習。 中國歷史科老師"
-  },
-  {
-   "course": "6C中文 2026-2027",
-   "title": "世界圖書日",
-   "posted": "2026-10-27",
-   "body": "親愛的六年級同學： 早晨，經過六年級中文科老師和圖書館老師的討論，現在宣佈以下安排： 圖書館將於11月2日至6日進行最後一次借書活動…… 學生如果有興趣，請在以下時間到圖書館借書。請參考以下連結並填寫表格： https://forms.gle/5H6JkqANRqej6uA17 謝謝！ 中文科老師（动态中以省略号显示，未能进一步确认省略号后内容）"
-  },
-  {
-   "course": "6C中國歷史 2026-2027",
-   "title": "中國歷史科測驗",
-   "posted": "2026-10-26",
-   "body": "各位同學： 中國歷史科將於11月2-6日進行測驗，詳情如下： 測驗日期：11月2-6日 測驗時間：15分鐘 測驗形式：選擇題及問答題（中、英對照） 測驗範圍： 單元二：秦朝 – 統一、鞏固與衰亡 (課文P.4-44) 課堂筆記 課堂工作紙 課堂小測及堂課 請同學努力溫習。 中國歷史科老師（与 10 月 27 日同名公告正文相同，页面上出现两次）"
-  },
-  {
-   "course": "2627_6C Mathematics Secondary",
-   "title": "3 Math Competition information, Sign up for any that you may interested in.",
-   "posted": "2026-10-26",
-   "body": "动态中除标题外未显示其他正文；附件：2026 Math Competition Info.pdf"
   }
  ],
  "materials": [
   {
    "course": "2627 6C Geography",
-   "title": "Y6 revision questions – Map Skills",
+   "title": "Y6 Lesson 7 - Types of Maps",
    "posted": "2026-10-31",
-   "body": "动态中未显示正文；资料：Y6 revision questions – Map Skills；2025-2026 6C Geo revision exercises for map skills；6C Geography revision timetable；Map Skills Assessment"
+   "body": "动态中未显示正文；资料：Y6 Lesson 7 - Types of Maps；Y6 Lesson 6 - Maps II；Y6 Lesson 5 - Maps I；Y6 Lesson 4 - Maps 3"
   },
   {
    "course": "6C/6D STEM (2026-2027)",
    "title": "IR Sensors",
-   "posted": "2026-10-28 12:32",
-   "body": "动态中未显示正文"
+   "posted": "2026-10-28",
+   "body": "动态中未显示正文；附件：IR sensors.pptx"
   }
  ],
  "grades": [],
  "calendar": [
-  {
-   "date_iso": "2026-11-02",
-   "date_display": "11月2日 星期一",
-   "time": "",
-   "title": "📝 功課到期：2627_6C Mathematics Secondary Unit02_P1_Section E ( 2 )"
-  },
   {
    "date_display": "11月3日 星期二",
    "date_iso": "2026-11-03",
@@ -128,16 +137,22 @@
    "title": "Election Day"
   },
   {
-   "date_iso": "2026-11-09",
-   "date_display": "11月9日 星期一",
+   "date_iso": "2026-11-08",
+   "date_display": "11月8日 星期日",
    "time": "",
-   "title": "📝 功課到期：6C FTP and English Secondary W12 (2026/11/08) Reading Comprehension (Text…"
+   "title": "📝 功課到期：6C中文 W12篇篇流螢"
+  },
+  {
+   "date_iso": "2026-11-08",
+   "date_display": "11月8日 星期日",
+   "time": "",
+   "title": "📝 功課到期：Y6 C/D 1 French Homework"
   },
   {
    "date_iso": "2026-11-09",
    "date_display": "11月9日 星期一",
    "time": "",
-   "title": "📋 Dear 6C, Please find attached the map skills…"
+   "title": "📋 Dear Year 6C, Please note that on Monday Nov…"
   },
   {
    "date_display": "11月11日 星期三",
