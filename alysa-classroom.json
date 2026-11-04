@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-03T16:38:03+08:00",
- "source_checked_at": "2026-11-03T16:07:00+08:00",
+ "updated_at": "2026-11-04T16:18:02+08:00",
+ "source_checked_at": "2026-11-04T16:07:00+08:00",
  "notice": "資料由Manhattan先生每日整理推送，只讀",
  "homework": [
   {
@@ -29,35 +29,32 @@
    "status": "assigned",
    "status_zh": "未交",
    "status_en": "Assigned"
-  },
-  {
-   "course": "2627_6C Mathematics Secondary",
-   "title": "Unit02 Unit Challenge correction and parent signature",
-   "due_iso": "2026-11-02",
-   "due_display": "Due 2 Nov, 23:59",
-   "status": "missing",
-   "status_zh": "已逾期",
-   "status_en": "Missing"
   }
  ],
  "announcements": [
   {
+   "course": "6C中文 2026-2027",
+   "title": "",
+   "posted": "2026-11-04",
+   "body": "同學們這週記得背誦<東施效顰><兩小兒辯日>哦！加油！以下是<兩小兒辯日>詩歌吟唱視頻 https://youtu.be/D5qA7lPqWwQ?si=3fZyQnBv9iE2D9k"
+  },
+  {
    "course": "6C History 2026-2027",
    "title": "PEE paragraph practice",
    "posted": "2026-11-02",
-   "body": "动态页除标题外未显示其他正文；附件标题在 Stream 中被截断显示为 Rubric for PEE paragraph -…，完整文件名未核实"
+   "body": "動態頁除標題外未顯示其他正文；附件：Google Docs: PEE Paragraph"
   },
   {
    "course": "6C FTP and English Secondary",
    "title": "Info slide",
    "posted": "2026-11-02",
-   "body": "动态页除标题 Info slide 外未显示其他正文；附件：[Y6] T1 Formative Assessment - WRITING (Info Slide)"
+   "body": "動態頁除標題外未顯示其他正文；附件：Google Slides: [Y6] T1 Formative Assessment - WRITING (Info Slide)"
   },
   {
    "course": "6C中文 2026-2027",
-   "title": "【2027 《AI中文故事繪》比賽】",
+   "title": "",
    "posted": "2026-11-02",
-   "body": "各位同學： 學年伊始，學校安排參與《AI中文故事繪》比賽，鼓勵同學利用生成式AI創作，結合寫作、藝術和科技，培養創意與數位素養。 比賽詳情： 主題：未來生活 日期：2025年11月14日（星期五）前完成作品並提交。 注意：請勿使用不當內容或抄襲他人作品。 期待同學們踴躍參加，發揮創意！"
+   "body": "各位同學，AI中文故事繪比賽（2027）現正接受報名！詳情如下：活動主辦：語文教育及研究常務委員會（語常會）截止日期：2027年3月15日之前參賽組別：小一至小三組、小四至小六組比賽內容：1.故事編寫 2.插畫創作 3.AI生成圖畫（最多10頁，中文撰寫，限15頁以內，內容包括：- 封面- 故事主體：約150-300字- 結尾或後記頁）參賽資格：全港小學生皆可參加，學生需提供：- 學生證副本- 香港身份證副本（只用於確認香港學生身份）作品需為原創（參考文獻需註明資料來源，否則作品將不獲評審。）有興趣的同學請於2027年3月15日之前，透過以下連結提交作品：https://forms.gle/5aRq7zXgTnh5a5aM8 https://semed.es2.sce.gov.hk/比賽詳情可參考附件，鼓勵同學踴躍參與！附件：Google Docs: 《AI中文故事繪》比賽"
   },
   {
    "course": "6C Integrated Science 2026-2027",
@@ -67,9 +64,9 @@
   },
   {
    "course": "2627 6C Geography",
-   "title": "Dear Year 6C, In three weeks (24 November), you will have your end of Unit test on mapping skills.",
+   "title": "Dear Year 6C, Welcome to Unit 2 - Tourism (Chapter 11-12).",
    "posted": "2026-10-31",
-   "body": "Dear Year 6C, In three weeks (24 November), you will have your end of Unit test on mapping skills. I have attached a guidance sheet that explains the different levels and what you should aim for in this unit. There are two other steps that you should be taking: 1. Keep up to date with your class work. 2. Make sure you read your class notes and the summary notes in the textbook. 3. Complete the practice exercises in the textbook and on Google Classroom. 4. Ask for help if you need it. Kind regards, Mr Tse 附件：Guidance Sheet - Level Descriptors 2025-26.pdf"
+   "body": "Dear Year 6C, Welcome to Unit 2 - Tourism (Chapter 11-12). Attached below are all the lesson PPTs and materials for this unit. As a reminder, please also review your map skills and landform notes. I have also attached the PPTs for Lesson 4 (Map Skills) and Lesson 6 (Types of Maps) that you may have missed. For next week's lessons, please ensure that you have done your pre-reading for Lesson 7. Looking forward to seeing you all next week. Kind regards, Mr Tse"
   },
   {
    "course": "2627 6C Geography",
@@ -79,63 +76,33 @@
   },
   {
    "course": "2627 6C Geography",
-   "title": "Dear 6C, Please find attached the map skills assessment for Monday November 9th.",
+   "title": "Dear Year 6C, Please find attached the map skills assessment for Monday November 9th.",
    "posted": "2026-10-31",
-   "body": "Dear 6C, Please find attached the map skills assessment for Monday November 9th. I suggest you print this copy and use it to revise. Kind regards, Mr Tse"
+   "body": "Dear Year 6C, Please find attached the map skills assessment for Monday November 9th. I suggest you print this copy and use it to revise. Kind regards, Mr Tse"
   },
   {
    "course": "6CD Girls PE 2026-2027",
-   "title": "Dear all, Swimming lessons will start next week (6/11/2026).",
+   "title": "Dear 6C Girls, Please note that there will be no PE lessons for tomorrow (31st Oct) and Monday (3rd Nov) as Ms Chan will be away.",
    "posted": "2026-10-30",
-   "body": "Dear all, Swimming lessons will start next week (6/11/2026). Please prepare your swimsuit, goggles, swim cap, towel, and a plastic bag for wet items. The first lesson will be on Friday, 6/11/2026, while the second lesson will be on Friday, 13/11/2026. If you are unable to attend the swimming lesson due to illness, please remember to write a note in your student diary. A makeup lesson will be arranged at a later date. Regards, Ms Yau"
-  },
-  {
-   "course": "6C History 2026-2027",
-   "title": "Alexander the Great PEE Paragraph",
-   "posted": "2026-10-28",
-   "body": "Use your computers to research the details for Alexander the Great and find evidence for whether he was great or not. I will advise you to write an draft on your notebooks before writing it on your lined paper for submission. Let another classmate read it and mark it using the rubric. Formative/Question: To what extent was Alexander the Great ‘great’? Due date: November 11th, 2026"
-  },
-  {
-   "course": "6C History 2026-2027",
-   "title": "Openbook assessment Syllabus",
-   "posted": "2026-10-28",
-   "body": "动态中除标题外未显示其他正文；附件：Open-book assessment - Syllabus 2627 (2)"
-  },
-  {
-   "course": "2627_6C Mathematics Secondary",
-   "title": "Dear 6C, Some of you have submitted your Unit Challenge correction without parent signature.",
-   "posted": "2026-10-28",
-   "body": "Dear 6C, Some of you have submitted your Unit Challenge correction without parent signature. I have returned those assignments to you. Please hand in your Unit Challenge correction with parent signature by tomorrow (Oct 29) morning before school starts. Note: No parent signature = incomplete work = no marks."
-  },
-  {
-   "course": "2627_6C Mathematics Secondary",
-   "title": "Dear Students, Please be advised that your USERNAME for Mathspace is ckysXXXXXXXXXX where XXXXXXXXXX is your student number",
-   "posted": "2026-10-28 16:30",
-   "body": "Dear Students, Please be advised that your USERNAME for Mathspace is ckysXXXXXXXXXX where XXXXXXXXXX is your student number. e.g. if your school email is s201801234@student.cky.edu.hk, your USERNAME is ckyss201801234 You will receive your password via email from ict_team at a later date. Thank you!"
+   "body": "Dear 6C Girls, Please note that there will be no PE lessons for tomorrow (31st Oct) and Monday (3rd Nov) as Ms Chan will be away. Kindly bring your student diary in your next PE lesson for Ms Chan to sign it off and take record of your fitness goals. If you are absent for a lesson, please update the reason in student diary. A makeup lesson will be arranged at a later date. Thank you very much, Ms Chan"
   }
  ],
  "materials": [
   {
    "course": "2627 6C Geography",
-   "title": "Y6 Lesson 7 - Types of Maps",
+   "title": "Lesson 7 - Exploring and Managing Leisure and Recreation Facilities",
    "posted": "2026-10-31",
-   "body": "动态中未显示正文；资料：Y6 Lesson 7 - Types of Maps；Y6 Lesson 6 - Maps II；Y6 Lesson 5 - Maps I；Y6 Lesson 4 - Maps 3"
+   "body": "资料：Lesson 7 - Exploring and Managing Leisure and Recreation Facilities；Lesson 6 - Types of Maps；Lesson 5 - How Do We Use Maps?；Lesson 4 - Map Skills，均附 Google Slides"
   },
   {
    "course": "6C/6D STEM (2026-2027)",
    "title": "IR Sensors",
-   "posted": "2026-10-28",
-   "body": "动态中未显示正文；附件：IR sensors.pptx"
+   "posted": "2026-10-29",
+   "body": "Students, The lesson powerpoint for this week's lesson is attached below. In this lesson, we will cover the different types of infrared sensors and the practical application of how they are used. Please read the attached PPT before the lesson and ensure that you have your laptop charged. Mr Man 附件：Google Slides: IR Sensors"
   }
  ],
  "grades": [],
  "calendar": [
-  {
-   "date_display": "11月3日 星期二",
-   "date_iso": "2026-11-03",
-   "time": "",
-   "title": "Election Day"
-  },
   {
    "date_iso": "2026-11-08",
    "date_display": "11月8日 星期日",
