@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-05T16:43:15+08:00",
- "source_checked_at": "2026-11-05T16:05:00+08:00",
+ "updated_at": "2026-11-06T16:18:01+08:00",
+ "source_checked_at": "2026-11-06T16:10:00+08:00",
  "notice": "資料由Manhattan先生每日整理推送，只讀",
  "homework": [
   {
@@ -15,15 +15,6 @@
   {
    "course": "6C中文 2026-2027",
    "title": "W12篇篇流螢",
-   "due_iso": "2026-11-08",
-   "due_display": "Due 8 Nov, 23:59",
-   "status": "assigned",
-   "status_zh": "未交",
-   "status_en": "Assigned"
-  },
-  {
-   "course": "Y6 C/D 1 French 2026-2027",
-   "title": "Homework",
    "due_iso": "2026-11-08",
    "due_display": "Due 8 Nov, 23:59",
    "status": "assigned",
@@ -51,10 +42,16 @@
  ],
  "announcements": [
   {
+   "course": "6C FTP and English Secondary",
+   "title": "",
+   "posted": "2026-11-06",
+   "body": "Dear all, As mentioned in the assembly, the next 2 competitions celebrating CKY's 25th Anniversary are on!! Please refer to this for more details: https://docs.google.com/presentation/d/1-1pLfcU_tqzIWZqOu8D27IfT82WzvhshBf9SB30Dxb8/edit?usp=sharing Please note the deadline is 7th December, 2026. Looking forward to all your designs! Thank you!"
+  },
+  {
    "course": "6C ICT (2026-2027)",
    "title": "",
    "posted": "2026-11-05",
-   "body": "Dear Y6, A kind reminder: Please bring your laptop for all my lessons. I have mentioned this many times that once laptops are issued, we will be working with laptops for every ICT lesson going forward. This also includes our STEM classes. You are permitted to leave it in your locker during the day, however laptops are not allowed to be left overnight in your lockers for safety and security concerns. Please take care of your laptop. Your parents have purchased the laptop and they are very expensive. Below, are some reminders from the BYOD policy introduced during our first lesson at beginning of the term: Checklist: Bring your registered laptop to every lesson; Ensure it's fully charged for the whole class; Device & software must be working before lesson; Use laptop only for teacher-directed educational tasks. During lessons: Keep screen lids down until instructed; Run only the program needed for the lesson; No spare laptops provided; No charging allowed in class. Thank you Y6. Mr. Man."
+   "body": "Dear Y6, A kind reminder: Please bring your laptop tomorrow and make sure your laptop is charged. If you have any issues with your laptop, please report to the IT Team. Thank you!"
   },
   {
    "course": "6C中文 2026-2027",
@@ -66,7 +63,7 @@
    "course": "6C中文 2026-2027",
    "title": "",
    "posted": "2026-11-02",
-   "body": "親愛的同學﹕ 此比賽全港中學、小學生免費參加。學生先創作故事，再用AI生成圖像，可以生成繪本，也可以生成影片。我們學校連續三年都有學生獲得佳績。得獎同學的作品刊登在知書電子平台（http://bit.ly/3KcIatj）。我們誠邀學生一起來參加比賽，拓展AI與語文學習的無限可能。詳情可查看﹕https://www.hkcea.org.hk/ 如果你有興趣參加，或想學習AI為故事配圖的方法，請於6/11或之前填寫此表，表示你有興趣參加比賽或講座。方便之後的訊息發布，請在交了表格後，同時加入谷歌教室(CODE: 3jjqiq5q )。（注：Stream 渲染中“此表”未显示为可点击链接／附件，未见表格链接。）"
+   "body": "各位同學：2027《AI中文故事繪》比賽現正接受報名，詳情如下：https://www.hkcea.org.hk/ 比賽以中文故事為基礎，參賽者需利用生成式AI協助完成故事繪本創作，發揮創意及表達能力。 有興趣參加的同學請於6/11或之前填寫此表，確認參賽意願：http://bit.ly/3KcIatj 活動詳情請見附件。 請在交了表格後，同時加入谷歌教室(CODE: 3jjqiq5q)。"
   },
   {
    "course": "6C History 2026-2027",
@@ -90,19 +87,19 @@
    "course": "2627 6C Geography",
    "title": "",
    "posted": "2026-10-31",
-   "body": "Dear Year 6C, In three weeks time we will have our Unit Test for Our Restless Earth. Please ensure that you revise the following: 1. Pages 3-25 of the lesson work booklet Part 1 (including the map reading skills) 2. Pages 3-8 of the lesson work booklet Part 2 3. PPT for lessons (0, 1, 2a, 2b, 3, 4, 5, 6, 7, 8) 4. Levels of questioning sheet (attached) 附件：PDF“Guidance Sheet - Levels of questions.docx.pdf”。"
+   "body": "Dear 6C, Please revise the following for the Unit Test in three weeks: L1: 4 factors affecting coastal erosion; L2: Processes of coastal erosion; L3: Landforms of coastal erosion; L4: Rocks; L5: Igneous Rock; L6: Sedimentary Rock; L7: External Processes. See attachment for guidance on how to prepare for the unit test. In addition, please prepare your map skills quiz next Monday Nov 9th (10 marks) on maps of the UK. Please refer to the attachment for practice. Thank you. Ms Wong 附件：Guidance Sheet - Levels of questions.docx.pdf。"
   },
   {
    "course": "2627 6C Geography",
    "title": "",
    "posted": "2026-10-31",
-   "body": "Dear Year 6C, Please note that on Monday November 9th we will have our 10 mark quiz on map skills. Please ensure that you cover the skills that we learnt so far. Kind regards, Mr Tse"
+   "body": "Dear 6C, Please note: The map skills quiz on Monday Nov 9th will be a 10 mark quiz, covering map work of the UK. Please refer to the attachment for practice questions. Thank you. Ms Wong"
   },
   {
    "course": "6CD Girls PE 2026-2027",
    "title": "",
    "posted": "2026-10-30",
-   "body": "Dear all, Swimming lessons will start next week (6/11/2026). Please prepare the following items and bring them to school: 1) Swimsuit (one piece) 2) Swim Goggles 3) Swim Cap 4) Towel 5) Flip Flops If you are unable to attend the swimming lesson on the scheduled day, please provide a parent's note in student diary. A makeup lesson will be arranged at a later date. Regards, Ms Yau"
+   "body": "Dear 6C students, Swimming lessons will start on 6/11/2026. Please remember to bring the following items for your swimming lessons: Swimming costume; Swimming cap; Goggles; Towel; Swimming bag; Flip-flops or sandals; Water bottle. If you are unable to participate in the swimming lesson, please provide a note from your parent/guardian. Thank you!"
   }
  ],
  "materials": [
@@ -120,12 +117,6 @@
    "date_display": "11月8日 星期日",
    "time": "",
    "title": "📝 功課到期：6C中文 W12篇篇流螢"
-  },
-  {
-   "date_iso": "2026-11-08",
-   "date_display": "11月8日 星期日",
-   "time": "",
-   "title": "📝 功課到期：Y6 C/D 1 French Homework"
   },
   {
    "date_display": "11月11日 星期三",
