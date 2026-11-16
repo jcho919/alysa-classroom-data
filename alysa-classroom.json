@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-13T16:37:01+08:00",
- "source_checked_at": "2026-11-13T16:34:00+08:00",
+ "updated_at": "2026-11-16T16:18:29+08:00",
+ "source_checked_at": "2026-11-16T16:09:00+08:00",
  "notice": "資料由Manhattan先生每日整理推送，只讀",
  "homework": [
   {
@@ -13,26 +13,8 @@
    "status_en": "Assigned"
   },
   {
-   "course": "2627_6C Mathematics Secondary",
-   "title": "UC03 Correction and Parent signature",
-   "due_iso": "2026-11-13",
-   "due_display": "Due 13 Nov, 23:59",
-   "status": "assigned",
-   "status_zh": "未交",
-   "status_en": "Assigned"
-  },
-  {
    "course": "6C中文 2026-2027",
-   "title": "W13篇篇流螢",
-   "due_iso": "2026-11-15",
-   "due_display": "Due 15 Nov, 23:59",
-   "status": "assigned",
-   "status_zh": "未交",
-   "status_en": "Assigned"
-  },
-  {
-   "course": "6C ICT (2026-2027)",
-   "title": "Scratch: Pacman",
+   "title": "訂正閱讀挑戰<老師的腰圍>",
    "due_iso": "2026-11-18",
    "due_display": "Due 18 Nov, 23:59",
    "status": "assigned",
@@ -42,8 +24,26 @@
  ],
  "announcements": [
   {
+   "course": "6CD Girls PE 2026-2027",
+   "title": "",
+   "posted": "2026-11-16",
+   "body": "Dear all, Due to the Chinese Field Trip on 3/12/2026, the 4th swimming lesson has been rescheduled to 11/12/2026. Please remember to bring your swimming kit. Regards, Ms Yau"
+  },
+  {
+   "course": "2627 6C Geography",
+   "title": "Geography Reference Sheet Distribution & Submission",
+   "posted": "2026-11-14",
+   "body": "Dear Students, Please note the following important details regarding your upcoming Geography assessment reference sheet: • Distribution: I will hand out the reference sheets in class on Monday. If we do not have a Geography lesson scheduled on Monday, I will distribute them to you during the morning FTP session instead. • Submission Deadline: You must hand in your completed reference sheet on the day of your assessment. Please note that no late submissions will be accepted. • Grading: Your reference sheet will be graded as part of your coursework, so please make sure you complete it thoroughly. Let me know if you have any questions. Best regards, Mr. Tse"
+  },
+  {
+   "course": "26-27 6C Music",
+   "title": "",
+   "posted": "2026-11-13",
+   "body": "6C / This is for the Year 6 Music Written Exam. A reference sheet is attached. Work hard on your revision! 附件：Word「Year 6 Assessment ref…」（檔名截斷）。課堂評論（Antheia Chan，15/11）：「thanks Ms. Tam!」"
+  },
+  {
    "course": "6C中文 2026-2027",
-   "title": "<兩小兒辯日><東施效顰>",
+   "title": "",
    "posted": "2026-11-12",
    "body": "11月20日星期五之前，請找以下同學背誦兩首古文： 1-10號同學：找陳柏駱Jayvis背誦 11-20號同學：找譚晴Renee背誦 21-31號同學：找劉雪晴 Ashley背誦"
   },
@@ -81,7 +81,7 @@
    "course": "6C中文 2026-2027",
    "title": "",
    "posted": "2026-11-09",
-   "body": "除標題外無其他文字。附件：PDF「2026-27 Y6 六年級 說話評估準備.pdf」。"
+   "body": "無文字說明。附件：PDF「2026-27 Y6 六年級 說話評估準備.pdf」（5 頁）。總分 60：日常朗讀 10、片段朗讀 20、個人短講 1.5 分鐘 30；題目「我的榜樣」；評估紙日期欄空白，日期未公布；溫習重點 PDF 話評估週後在課上考試。評分：甲部 10 分、乙部 20 分（發音／語氣語調／語速／聲量各 5 分）、丙部 30 分（內容 10、結構和邏輯 6、表達能力與效果 10、時長與儀態 4）；短講少於 1 分鐘內容最多 6 分。"
   },
   {
    "course": "6C中文 2026-2027",
@@ -93,7 +93,7 @@
    "course": "6C FTP and English Secondary",
    "title": "Summative Assessment Info Slide",
    "posted": "2026-11-09",
-   "body": "除標題外無其他文字。附件：Google Slides「[Y6] T1 Summative Assessment Info Slide」。"
+   "body": "除標題外無其他文字。附件：Google Slides「[Y6] T1 Summative Assessment Info Slide」。寫作 11/23（圖片提示描寫文，WAF 1–4，建議 10 分鐘構思）、閱讀 11/24（Section A 文法 10 分、Section B Frankenstein 角色分析：引言＋一段 PEEL＋結論，50 分鐘）。"
   },
   {
    "course": "2627 6C Geography",
@@ -102,16 +102,22 @@
    "body": "Reminder:\n1. Hw #3 p.8-p.9. Due on 13/11 Friday. 附件：PDF「Copy of L3a_Essay Writing (Homework).pptx.pdf」。（此公告 2026-11-09 發布，2026-11-11 07:50 編輯，截止日由 12/11 改為 13/11。）"
   },
   {
+   "course": "6C FTP and English Secondary",
+   "title": "CKY 25th Anniversary competitions",
+   "posted": "2026-11-06",
+   "body": "Hi everyone,\nAs you know, the CKY 25th Anniversary celebrations start next week, and the English department is running two competitions, one for you and one for your parents. Please read the information below carefully, and if you would like to take part in either of the competitions, please follow the instructions.\nBest of luck!\nMr. Ghomrassi\nCKY 25th Anniversary competitions - Parent competition\n1. What is the competition about?\na. In 2025, Po Leung Kuk Choi Kai Yau School celebrated its 25th anniversary. To commemorate this occasion, the school's English department is organising a writing competition for parents. We invite parents to submit a piece of writing which answers the question: \"How has CKY's 25 years of education influenced and shaped your family?\" Parents are invited to submit a short piece of writing (maximum 250 words) sharing their reflections on the school's impact on their family. Entries will be judged on quality and creativity, and the top three winners will receive a prize.\nb. Please use the link below to access the form to upload your writing.\nhttps://docs.google.com/forms/d/e/1FAIpQLSfr3Cck8c0J1u8mZ5k8dM-8mE1fW9K2d7Xj5h4bPq5hPqZ5hPqZ5hPqZ5/viewform?usp=header\nc. The deadline for this competition is Monday 7th December 2026.\nd. Please make sure that you have saved the form before you submit it. The link will be sent to you via a school notice.\n2. What is the prize?\na. The prize is a 1st Prize Certificate and a book voucher.\nCKY 25th Anniversary competitions - Student competition\n1. What is the competition about?\na. In 2025, Po Leung Kuk Choi Kai Yau School celebrated its 25th anniversary. To commemorate this occasion, the school's English department is organising a writing competition for students. We invite students to submit a piece of writing which answers the question: \"How has CKY's 25 years of education influenced and shaped your family?\" Students are invited to submit a piece of writing (maximum 250 words) sharing their reflections on the school's impact on their family. Entries will be judged on quality and creativity, and the top three winners will receive a prize.\nb. Please use the link below to access the form to upload your writing.\nhttps://docs.google.com/forms/d/e/1FAIpQLSfr3Cck8c0J1u8mZ5k8dM-8mE1fW9K2d7Xj5h4bPq5hPqZ5hPqZ5hPqZ5/viewform?usp=header\nc. The deadline for this competition is Monday 7th December 2026.\nd. Please make sure that you have saved the form before you submit it. The link will be sent to you via a school notice.\n2. What is the prize?\na. The prize is a 1st Prize Certificate and a book voucher. 附件：Google Slides「CKY 25th Anniversary competitions」。"
+  },
+  {
    "course": "2627 6C Geography",
    "title": "",
    "posted": "2026-11-09",
    "body": "Hi everyone,\nPlease take note of the following instructions regarding your Geography portfolios:\n• Portfolio Checking: We will be setting aside our lesson on Monday 16th November to check and grade your portfolios before Assessment Week. Please make sure you bring all relevant work, notes, and materials to class.\n• Organization: Ensure your portfolio is fully organized and up to date prior to our checking session\nLet me know if you have any questions!"
   },
   {
-   "course": "6C FTP and English Secondary",
-   "title": "CKY 25th Anniversary competitions",
-   "posted": "2026-11-06",
-   "body": "Hi everyone,\nAs you know, the CKY 25th Anniversary celebrations start next week, and the English department is running two competitions, one for you and one for your parents. Please read the information below carefully, and if you would like to take part in either of the competitions, please follow the instructions.\nBest of luck!\nMr. Ghomrassi\nCKY 25th Anniversary competitions - Parent competition\n1. What is the competition about?\na. In 2025, Po Leung Kuk Choi Kai Yau School celebrated its 25th anniversary. To commemorate this occasion, the school's English department is organising a writing competition for parents. We invite parents to submit a piece of writing which answers the question: \"How has CKY's 25 years of education influenced and shaped your family?\" Parents are invited to submit a short piece of writing (maximum 250 words) sharing their reflections on the school's impact on their family. Entries will be judged on quality and creativity, and the top three winners will receive a prize.\nb. Please use the link below to access the form to upload your writing.\nhttps://docs.google.com/forms/d/e/1FAIpQLSfr3Cck8c0J1u8mZ5k8dM-8mE1fW9K2d7Xj5h4bPq5hPqZ5hPqZ5hPqZ5/viewform?usp=header\nc. The deadline for this competition is Monday 7th December 2026.\nd. Please make sure that you have saved the form before you submit it. The link will be sent to you via a school notice.\n2. What is the prize?\na. The prize is a 1st Prize Certificate and a book voucher.\nCKY 25th Anniversary competitions - Student competition\n1. What is the competition about?\na. In 2025, Po Leung Kuk Choi Kai Yau School celebrated its 25th anniversary. To commemorate this occasion, the school's English department is organising a writing competition for students. We invite students to submit a piece of writing which answers the question: \"How has CKY's 25 years of education influenced and shaped your family?\" Students are invited to submit a piece of writing (maximum 250 words) sharing their reflections on the school's impact on their family. Entries will be judged on quality and creativity, and the top three winners will receive a prize.\nb. Please use the link below to access the form to upload your writing.\nhttps://docs.google.com/forms/d/e/1FAIpQLSfr3Cck8c0J1u8mZ5k8dM-8mE1fW9K2d7Xj5h4bPq5hPqZ5hPqZ5hPqZ5/viewform?usp=header\nc. The deadline for this competition is Monday 7th December 2026.\nd. Please make sure that you have saved the form before you submit it. The link will be sent to you via a school notice.\n2. What is the prize?\na. The prize is a 1st Prize Certificate and a book voucher. 附件：Google Slides「CKY 25th Anniversary competitions」。"
+   "course": "6C中文 2026-2027",
+   "title": "",
+   "posted": "2026-10-15",
+   "body": "同學們加油哦！期待大家能像上週「年級詞語大挑」那樣，取得理想的成績！加油加油😊 上官老師。附件：PDF「六年級上學期溫習重點2026-27.docx.pdf」（2026-11-13 編輯）。閱讀／課外閱讀：人物描寫文、閱讀理解、文本分析；圖書《何紫兒童小說精選集》全書，評估時只准帶呢本書，可貼無字標籤；寫作：人物描寫文，閉卷，唔可帶積累本／採蜜集；說話：日常朗讀＋口語短講，評估週前派準備紙，評估週後課上考，可帶 A6 單面提詞卡。"
   }
  ],
  "materials": [
@@ -149,22 +155,10 @@
  "grades": [],
  "calendar": [
   {
-   "date_iso": "2026-11-13",
-   "date_display": "11月13日 星期五",
-   "time": "",
-   "title": "📝 功課到期：2627_6C Mathematics Secondary UC03 Correction and Parent signature"
-  },
-  {
-   "date_iso": "2026-11-15",
-   "date_display": "11月15日 星期日",
-   "time": "",
-   "title": "📝 功課到期：6C中文 W13篇篇流螢"
-  },
-  {
    "date_iso": "2026-11-18",
    "date_display": "11月18日 星期三",
    "time": "",
-   "title": "📝 功課到期：6C ICT (2026-2027) Scratch: Pacman"
+   "title": "📝 功課到期：6C中文 訂正閱讀挑戰<老師的腰圍>"
   },
   {
    "date_display": "11月26日 星期四",
