@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-18T16:44:46+08:00",
- "source_checked_at": "2026-11-18T16:33:00+08:00",
+ "updated_at": "2026-11-19T16:17:09+08:00",
+ "source_checked_at": "2026-11-19T16:05:00+08:00",
  "notice": "資料由Manhattan先生每日整理推送，只讀",
  "homework": [
   {
@@ -13,16 +13,46 @@
    "status_en": "Assigned"
   },
   {
+   "course": "2627_6C Mathematics Secondary",
+   "title": "UC04（pop quiz）Correction and Parent Signature",
+   "due_iso": "2026-11-30",
+   "due_display": "Due 30 Nov",
+   "status": "assigned",
+   "status_zh": "未交",
+   "status_en": "Assigned"
+  },
+  {
+   "course": "6C ICT (2026-2027)",
+   "title": "Thunkable 1",
+   "due_iso": "2026-12-03",
+   "due_display": "Due 3 Dec",
+   "status": "assigned",
+   "status_zh": "未交",
+   "status_en": "Assigned"
+  },
+  {
    "course": "6C中文 2026-2027",
    "title": "訂正閱讀挑戰<老師的腰圍>",
    "due_iso": "2026-11-18",
    "due_display": "Due 18 Nov, 23:59",
-   "status": "assigned",
-   "status_zh": "未交",
-   "status_en": "Assigned"
+   "status": "missing",
+   "status_zh": "已逾期",
+   "status_en": "Missing"
   }
  ],
  "announcements": [
+  {
+   "course": "6C中文 2026-2027",
+   "title": "【Y6溫習卷參考答案】",
+   "posted": "2026-11-19",
+   "body": "Stream 只顯示標題，無正文。附件：PDF「Y6溫習卷參考答案.pdf」。"
+  },
+  {
+   "course": "26-27 6C Music",
+   "title": "6C",
+   "posted": "2026-11-18",
+   "body": "Please note the information below. These are key points for your written exam. Study hard! 附件：Word「Year 6 elements exam.docx」。（發布時間只顯示日期，未能確認係咪 2026-11-18 16:33 之前發布。）"
+  },
   {
    "course": "6C FTP and English Secondary",
    "title": "",
@@ -34,12 +64,6 @@
    "title": "!CHECKLIST!:",
    "posted": "2026-11-17",
    "body": "Dear 6C, Please check your sketchbooks against this checklist to ensure that you are keeping up with all the work we have completed this term so far. Any incomplete work must be completed by Friday 20th November. Please ensure that your sketchbook is brought to school on Friday 20th November for teacher's marking. Thank you! Mr Lam 附件：圖片「Y6 checklist.png」（清單內容：All About Me Squash Book; Tile Design, Tessellation; Inspirational images, With simple shapes outline; Mood Board; Basic Shape composition 2-3pcs; 3D design）。"
-  },
-  {
-   "course": "2627 6C Geography",
-   "title": "",
-   "posted": "2026-10-31",
-   "body": "Dear all, Please note the following important details about the upcoming assessment for Module 1: Our Restless Earth. • Assessment: The assessment will be conducted during regular lesson times (Period 1 and 2 for both 6A and 6B classes). It will be based on the content covered in Lessons 1-8. • Preparation: The key preparation materials are the Y6 Homework Booklet WS#3 Debrief, the Class Workbook, and the Reference Sheet. • Time: Please note that this assessment will be held as an in-class assessment during a regular lesson. The assessment will last approximately 30 minutes. • Instructions: Please arrive on time and bring all necessary materials, including a pen/pencil. There are two parts to the assessment: MC questions and short questions. • Grading: The assessment will be graded and included in your term 1 grades. It is important to review the content covered in Lessons 1-8 and complete the assigned homework booklet tasks. The assessment details are subject to change, and I will inform you of any updates in class. Let me know if you have any questions. Best regards, Mr. Tse 附件：Guidance Sheet - Levels of questions.docx.pdf。（原公告 2026-10-31 發布，2026-11-17 編輯；公告本文無確實評估日期。）"
   },
   {
    "course": "6C ICT (2026-2027)",
@@ -96,6 +120,12 @@
    "body": "Students, Please read the slides to learn how to connect the OLED correctly to the RobotBit. Mr. Man 附件：Google Slides「STEM OLED」。無留言。"
   },
   {
+   "course": "6C History 2026-2027",
+   "title": "For those who need the structure and did not write it down during class",
+   "posted": "2026-11-11",
+   "body": "附白板相片 2 張（課堂結構）。白板字跡只部分可讀，未抄錄。"
+  },
+  {
    "course": "6C ICT (2026-2027)",
    "title": "",
    "posted": "2026-11-10",
@@ -126,6 +156,12 @@
    "body": "Reminder:\n1. Hw #3 p.8-p.9. Due on 13/11 Friday. 附件：PDF「Copy of L3a_Essay Writing (Homework).pptx.pdf」。（此公告 2026-11-09 發布，2026-11-11 07:50 編輯，截止日由 12/11 改為 13/11。）"
   },
   {
+   "course": "2627 6C Geography",
+   "title": "",
+   "posted": "2026-11-09",
+   "body": "Hi everyone,\nPlease take note of the following instructions regarding your Geography portfolios:\n• Portfolio Checking: We will be setting aside our lesson on Monday 16th November to check and grade your portfolios before Assessment Week. Please make sure you bring all relevant work, notes, and materials to class.\n• Organization: Ensure your portfolio is fully organized and up to date prior to our checking session\nLet me know if you have any questions!"
+  },
+  {
    "course": "6C FTP and English Secondary",
    "title": "CKY 25th Anniversary competitions",
    "posted": "2026-11-06",
@@ -134,23 +170,23 @@
   {
    "course": "2627 6C Geography",
    "title": "",
-   "posted": "2026-11-09",
-   "body": "Hi everyone,\nPlease take note of the following instructions regarding your Geography portfolios:\n• Portfolio Checking: We will be setting aside our lesson on Monday 16th November to check and grade your portfolios before Assessment Week. Please make sure you bring all relevant work, notes, and materials to class.\n• Organization: Ensure your portfolio is fully organized and up to date prior to our checking session\nLet me know if you have any questions!"
+   "posted": "2026-10-31",
+   "body": "Dear all, Please note the following important details about the upcoming assessment for Module 1: Our Restless Earth. • Assessment: The assessment will be conducted during regular lesson times (Period 1 and 2 for both 6A and 6B classes). It will be based on the content covered in Lessons 1-8. • Preparation: The key preparation materials are the Y6 Homework Booklet WS#3 Debrief, the Class Workbook, and the Reference Sheet. • Time: Please note that this assessment will be held as an in-class assessment during a regular lesson. The assessment will last approximately 30 minutes. • Instructions: Please arrive on time and bring all necessary materials, including a pen/pencil. There are two parts to the assessment: MC questions and short questions. • Grading: The assessment will be graded and included in your term 1 grades. It is important to review the content covered in Lessons 1-8 and complete the assigned homework booklet tasks. The assessment details are subject to change, and I will inform you of any updates in class. Let me know if you have any questions. Best regards, Mr. Tse 附件：Guidance Sheet - Levels of questions.docx.pdf。（原公告 2026-10-31 發布，2026-11-17 編輯；公告本文無確實評估日期。）"
   },
   {
    "course": "6C中文 2026-2027",
    "title": "",
    "posted": "2026-10-15",
    "body": "同學們加油哦！期待大家能像上週「年級詞語大挑」那樣，取得理想的成績！加油加油😊 上官老師。附件：PDF「六年級上學期溫習重點2026-27.docx.pdf」（2026-11-13 編輯）。閱讀／課外閱讀：人物描寫文、閱讀理解、文本分析；圖書《何紫兒童小說精選集》全書，評估時只准帶呢本書，可貼無字標籤；寫作：人物描寫文，閉卷，唔可帶積累本／採蜜集；說話：日常朗讀＋口語短講，評估週前派準備紙，評估週後課上考，可帶 A6 單面提詞卡。"
-  },
-  {
-   "course": "6C History 2026-2027",
-   "title": "For those who need the structure and did not write it down during class",
-   "posted": "2026-11-11",
-   "body": "附白板相片 2 張（課堂結構）。白板字跡只部分可讀，未抄錄。"
   }
  ],
  "materials": [
+  {
+   "course": "2627 6C Geography",
+   "title": "Our Restless Earth - Unit 4 - Lesson 3 & 4",
+   "posted": "2026-11-17",
+   "body": "17/11 新教材；昨日狀態檔未記錄，今次補記。"
+  },
   {
    "course": "2627 6C Geography",
    "title": "Y6 Homework Booklet WS#3 Debrief",
@@ -203,12 +239,6 @@
  "grades": [],
  "calendar": [
   {
-   "date_iso": "2026-11-18",
-   "date_display": "11月18日 星期三",
-   "time": "",
-   "title": "📝 功課到期：6C中文 訂正閱讀挑戰<老師的腰圍>"
-  },
-  {
    "date_display": "11月26日 星期四",
    "date_iso": "2026-11-26",
    "time": "",
@@ -219,6 +249,18 @@
    "date_iso": "2026-11-27",
    "time": "",
    "title": "Black Friday"
+  },
+  {
+   "date_iso": "2026-11-30",
+   "date_display": "11月30日 星期一",
+   "time": "",
+   "title": "📝 功課到期：2627_6C Mathematics Secondary UC04（pop quiz）Correction and Parent Signatur…"
+  },
+  {
+   "date_iso": "2026-12-03",
+   "date_display": "12月3日 星期四",
+   "time": "",
+   "title": "📝 功課到期：6C ICT (2026-2027) Thunkable 1"
   }
  ],
  "timetable": {
