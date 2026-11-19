@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-19T16:17:09+08:00",
+ "updated_at": "2026-11-19T16:33:59+08:00",
  "source_checked_at": "2026-11-19T16:05:00+08:00",
  "notice": "資料由Manhattan先生每日整理推送，只讀",
  "homework": [
@@ -834,6 +834,29 @@
   "subjects": []
  },
  "study_plans": [
+  {
+   "date": "2026-11-19",
+   "date_display": "11月19日（星期四）",
+   "plan_text": "琛琛每日溫習計劃（11月19日，星期四）\n\n逾期未交：\n- 中文 訂正閱讀挑戰<老師的腰圍>：尋日 11月18日 23:59 已經到期，仲未交；錯字成個詞語抄3遍，影相上傳 Classroom — 今晚第一時間做\n\n今日功課：\n- 英文 Dear Book log and Presentation：無到期日，繼續做\n- 數學 UC04（pop quiz）Correction and Parent Signature：11月30日到期，連家長簽名\n- ICT Thunkable 1：12月3日到期\n\n今日新消息：\n- 中文出咗（今日 14:32）：對返份溫習卷嘅答案，錯嘅地方要識\n- 音樂筆試重點（Year 6 elements exam）尋日出咗，留意\n\n測驗／評估預告：\n- 聽日星期五 11月20日：美術收 sketchbook 計分（對清單執齊）；中文背誦〈兩小兒辯日〉〈東施效顰〉全文檢查\n- 英文 T1 Summative：寫作 11月23日（星期一）60分鐘；閱讀 11月24日（星期二）60分鐘\n- ICT Term 1 評估：11月23日（星期一）09:50–10:55，30分鐘筆試；可帶一張雙面 A4 手寫筆記\n- 地理 Our Restless Earth 評估：日期未公布；reference sheet 評估當日交，計分\n- 中文說話評估：日期未公布；題目「我的榜樣」，1.5分鐘\n- 音樂筆試：日期未公布（重點已出）\n\n練習紙（之前出過，永久連結，今日無新練習紙）：\n- 中文背誦練習紙（〈兩小兒辯日〉〈東施效顰〉填空＋默寫挑戰，附答案）：\nhttps://raw.githubusercontent.com/jcho919/alysa-classroom-data/main/pdfs/chinese-recitation-practice-2026-11-18.pdf\n- 英文 T1 練習紙：\nhttps://raw.githubusercontent.com/jcho919/alysa-classroom-data/main/pdfs/english-t1-summative-practice-2026-11-16.pdf\n- ICT Term 1 練習紙：\nhttps://raw.githubusercontent.com/jcho919/alysa-classroom-data/main/pdfs/ict-t1-assessment-practice-2026-11-17.pdf\n- 地理 Our Restless Earth 練習紙：\nhttps://raw.githubusercontent.com/jcho919/alysa-classroom-data/main/pdfs/geo-restless-earth-practice-2026-10-05.pdf\n\n今晚時間表（19:00–20:00食飯，20:30–22:00溫習，22:00瞓）：\n- 20:30–21:00 中文訂正閱讀挑戰（逾期，今晚主力）\n- 21:00–21:25 中文背誦兩篇古文（用尋日練習紙）\n- 21:25–21:50 對中文溫習卷答案 ＋ 美術 sketchbook 最後執齊\n- 21:50–22:00 執書包 ＋ 英文 Dear Book log\n\n聽日（星期五）：\n- 帶 sketchbook 返學 ＋ 背誦檢查\n- 英文 T1 寫作練習 ＋ ICT A4 手寫筆記\n",
+   "links": [
+    {
+     "title": "中文背誦練習紙（〈兩小兒辯日〉〈東施效顰〉）",
+     "url": "https://raw.githubusercontent.com/jcho919/alysa-classroom-data/main/pdfs/chinese-recitation-practice-2026-11-18.pdf"
+    },
+    {
+     "title": "英文 T1 練習紙",
+     "url": "https://raw.githubusercontent.com/jcho919/alysa-classroom-data/main/pdfs/english-t1-summative-practice-2026-11-16.pdf"
+    },
+    {
+     "title": "ICT Term 1 練習紙",
+     "url": "https://raw.githubusercontent.com/jcho919/alysa-classroom-data/main/pdfs/ict-t1-assessment-practice-2026-11-17.pdf"
+    },
+    {
+     "title": "地理 Our Restless Earth 練習紙",
+     "url": "https://raw.githubusercontent.com/jcho919/alysa-classroom-data/main/pdfs/geo-restless-earth-practice-2026-10-05.pdf"
+    }
+   ]
+  },
   {
    "date": "2026-11-18",
    "date_display": "11月18日（星期三）",
