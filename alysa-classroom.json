@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-19T16:33:59+08:00",
- "source_checked_at": "2026-11-19T16:05:00+08:00",
+ "updated_at": "2026-11-20T16:17:47+08:00",
+ "source_checked_at": "2026-11-20T16:03:00+08:00",
  "notice": "資料由Manhattan先生每日整理推送，只讀",
  "homework": [
   {
@@ -42,8 +42,14 @@
  ],
  "announcements": [
   {
+   "course": "2627_6C Mathematics Secondary",
+   "title": "",
+   "posted": "2026-11-20",
+   "body": "For Assessment review，you may use, but not limited to, the following materials: - homework book; (example answer posted on GC) - UCs; - Mock paper; (MS posted on GC) - booklets of 4 units and revision booklets. Good luck on the test，your hard work will pay off～"
+  },
+  {
    "course": "6C中文 2026-2027",
-   "title": "【Y6溫習卷參考答案】",
+   "title": "",
    "posted": "2026-11-19",
    "body": "Stream 只顯示標題，無正文。附件：PDF「Y6溫習卷參考答案.pdf」。"
   },
@@ -51,7 +57,7 @@
    "course": "26-27 6C Music",
    "title": "6C",
    "posted": "2026-11-18",
-   "body": "Please note the information below. These are key points for your written exam. Study hard! 附件：Word「Year 6 elements exam.docx」。（發布時間只顯示日期，未能確認係咪 2026-11-18 16:33 之前發布。）"
+   "body": "Please note the information below. These are key points for your written exam. Study hard! 附件：Word「Year 6 elements exam.docx」。"
   },
   {
    "course": "6C FTP and English Secondary",
@@ -63,19 +69,25 @@
    "course": "6C ART 26/27",
    "title": "!CHECKLIST!:",
    "posted": "2026-11-17",
-   "body": "Dear 6C, Please check your sketchbooks against this checklist to ensure that you are keeping up with all the work we have completed this term so far. Any incomplete work must be completed by Friday 20th November. Please ensure that your sketchbook is brought to school on Friday 20th November for teacher's marking. Thank you! Mr Lam 附件：圖片「Y6 checklist.png」（清單內容：All About Me Squash Book; Tile Design, Tessellation; Inspirational images, With simple shapes outline; Mood Board; Basic Shape composition 2-3pcs; 3D design）。"
+   "body": "• Review the checklist and ensure all assignments are in your sketchbook. • Sketchbooks will be collected for marking on Friday, 20th November（今日版本較短；昨日記錄嘅版本較長，列出 All About Me Squash Book、Tile Design 等清單內容）。"
+  },
+  {
+   "course": "2627 6C Geography",
+   "title": "",
+   "posted": "2026-11-17",
+   "body": "Dear Year 6C, In three weeks time we will have our Assessment for Our Restless Earth. Please ensure that you revise the following: 1. Pages 3-25 of the lesson work booklet Part 1 (including the map reading skills) 2. Pages 3-8 of the lesson work booklet Part 2 3. PPT for lessons (0, 1, 2a, 2b, 3, 4, 5, 6, 7, 8) 4. Levels of questioning sheet (attached)（31/10 建立、17/11 編輯；正文同昨日記錄嘅版本唔同，昨日版本講常規課堂內考、Period 1 and 2、Lessons 1-8）。"
   },
   {
    "course": "6C ICT (2026-2027)",
    "title": "",
    "posted": "2026-11-17",
-   "body": "Dear Y6 students, I hope this message finds you well. Term 1 ICT Assessment will be held on Monday 23 November from 9:50 to 10:55 AM. The assessment will consist of the following topics: Digitalisation, AI Theory (algorithms and XML will not feature in the assessment), AI Prompting, BYOD policy. Please be aware that the assessment will last for 30 minutes, and there will be other sections of the test following that time. Students are allowed to bring 1 double sided A4 page of handwritten notes. Please ensure that your notes are written on the page and not printed. Exam tips: Please use your time wisely and focus on the questions you know the answer to first. If you are unsure of an answer, don't worry; make an educated guess and move on. I believe in each and every one of you, and I know you will do great. Best regards, Mr. Man"
+   "body": "Dear students, Term 1 ICT Assessment will take place in your classroom on Monday 23rd of November 9:50 - 10:55. Please stay in the classroom during the allocated time. You will have 30 mins to complete the exam paper. Please revise the following topics: • Digitalisation • AI Theory (algorithms and XML will not feature on the paper) • AI Prompting • BYOD policy You are permitted to use 1 double sided A4 page of handwritten notes for the exam. Exam tips: be clear and provide examples to show your understanding of the subject. Mr. Man."
   },
   {
    "course": "6CD Girls PE 2026-2027",
    "title": "Swimming Lesson Rescheduled",
    "posted": "2026-11-16",
-   "body": "Dear all, Due to the Chinese Field Trip on 3/12/2026, the 4th swimming lesson has been rescheduled to 11/12/2026. Please remember to bring your swimming kit. Regards, Ms Yau 課堂評論（Nahla Chan，16/11）：「Thanks!」"
+   "body": "Dear all, Due to the Chinese Field Trip on 3/12/2026, the 4th swimming lesson has been rescheduled to 11/12/2026. Please remember to bring your swimming kit. Regards, Ms Yau"
   },
   {
    "course": "2627 6C Geography",
@@ -84,114 +96,54 @@
    "body": "Dear Students, Please note the following important details regarding your upcoming Geography assessment reference sheet: • Distribution: I will hand out the reference sheets in class on Monday. If we do not have a Geography lesson scheduled on Monday, I will distribute them to you during the morning FTP session instead. • Submission Deadline: You must hand in your completed reference sheet on the day of your assessment. Please note that no late submissions will be accepted. • Grading: Your reference sheet will be graded as part of your coursework, so please make sure you complete it thoroughly. Let me know if you have any questions. Best regards, Mr. Tse"
   },
   {
-   "course": "26-27 6C Music",
+   "course": "6C中文 2026-2027",
    "title": "",
    "posted": "2026-11-13",
-   "body": "6C / This is for the Year 6 Music Written Exam. A reference sheet is attached. Work hard on your revision! 附件：Word「Year 6 Assessment reference sheet.docx」。課堂評論（Antheia Chan，15/11）：「thanks Ms. Tam!」"
-  },
-  {
-   "course": "6C中文 2026-2027",
-   "title": "【6C背誦檢查】<兩小兒辯日><東施效顰>",
-   "posted": "2026-11-12",
-   "body": "各位同學好： 6C同學請於11月20日星期五前完成以下背誦，並在課堂上由老師親自檢查： 《兩小兒辯日》 —— 背誦範圍：全文 《東施效顰》 —— 背誦範圍：全文 同學們請提前熟讀課文，熟練背誦，謝謝。 祝大家學習進步！ 上官老師 附件：2026-27 兩小兒辯日.pdf。"
-  },
-  {
-   "course": "2627_6C Mathematics Secondary",
-   "title": "Pop Quiz Reminder",
-   "posted": "2026-11-12",
-   "body": "Dear 6C students, Please note that there will be a Pop Quiz on 16 Nov Monday in class. The quiz will cover Unit 2: Fractions and Unit 3: Decimals. Please prepare a pencil, an eraser and a ruler for the quiz. Thanks! Ms Chen 暫無 Unit 04 Classwork 功課。"
-  },
-  {
-   "course": "6C History 2026-2027",
-   "title": "For those who need the structure and did not write it down during class",
-   "posted": "2026-11-11",
-   "body": "附白板相片 2 張（課堂結構）。白板字跡只部分可讀，未抄錄。"
-  },
-  {
-   "course": "6C Integrated Science",
-   "title": "matter 2A ppt (if you cant access previously)",
-   "posted": "2026-11-11",
-   "body": "Please note that matter 2A ppt is here again, in case you cannot access the previous one. Miss Ho 附件：Google Slides「matter 2A」。無附件、無留言。"
-  },
-  {
-   "course": "6C/6D STEM",
-   "title": "",
-   "posted": "2026-11-11",
-   "body": "Students, Please read the slides to learn how to connect the OLED correctly to the RobotBit. Mr. Man 附件：Google Slides「STEM OLED」。無留言。"
-  },
-  {
-   "course": "6C History 2026-2027",
-   "title": "For those who need the structure and did not write it down during class",
-   "posted": "2026-11-11",
-   "body": "附白板相片 2 張（課堂結構）。白板字跡只部分可讀，未抄錄。"
-  },
-  {
-   "course": "6C ICT (2026-2027)",
-   "title": "",
-   "posted": "2026-11-10",
-   "body": "Digitalisation 1 & 2 homework needs to delivered to my pigeon hole in the staffroom. Those who were absent send me an email as I have already delivered extra worksheets to those absent in P0 many weeks ago. If you have not received one, email me as soon as possible and I will deliver the worksheets in P0 in your class. Complete and deliver to my pigeon hole in staff room. Thank you. Mr. Man.（「needs to delivered」為原文寫法。）無附件。"
+   "body": "同學們加油哦！期待大家能像上週「年級詞語大挑」那樣，取得理想的成績！ 加油加油😊 上官老師。附件：PDF「Y6 六年級上學期期末溫習重點.pdf」。（15/10 建立、13/11 編輯。）"
   },
   {
    "course": "6C中文 2026-2027",
    "title": "",
-   "posted": "2026-11-09",
-   "body": "無文字說明。附件：PDF「2026-27 Y6 六年級 說話評估準備.pdf」（5 頁）。總分 60：日常朗讀 10、片段朗讀 20、個人短講 1.5 分鐘 30；題目「我的榜樣」；評估紙日期欄空白，日期未公布；溫習重點 PDF 話評估週後在課上考試。評分：甲部 10 分、乙部 20 分（發音／語氣語調／語速／聲量各 5 分）、丙部 30 分（內容 10、結構和邏輯 6、表達能力與效果 10、時長與儀態 4）；短講少於 1 分鐘內容最多 6 分。"
+   "posted": "2026-11-13",
+   "body": "無正文。附件：PDF「2026-27 Y6 六年級 說話評估準備.pdf」。（9/11 建立、13/11 編輯。）"
   },
   {
-   "course": "6C中文 2026-2027",
-   "title": "",
-   "posted": "2026-11-09",
-   "body": "除標題外無其他文字。附件：圖片「6C《蟋蟀》角色特點.jpeg」。課堂評論（Nahla Chan）：「thanks」。"
-  },
-  {
-   "course": "6C FTP and English Secondary",
-   "title": "Summative Assessment Info Slide",
-   "posted": "2026-11-09",
-   "body": "除標題外無其他文字。附件：Google Slides「[Y6] T1 Summative Assessment Info Slide」。寫作 11/23（圖片提示描寫文，WAF 1–4，建議 10 分鐘構思）、閱讀 11/24（Section A 文法 10 分、Section B Frankenstein 角色分析：引言＋一段 PEEL＋結論，50 分鐘）。"
-  },
-  {
-   "course": "2627 6C Geography",
-   "title": "Reminder",
-   "posted": "2026-11-09",
-   "body": "Reminder:\n1. Hw #3 p.8-p.9. Due on 13/11 Friday. 附件：PDF「Copy of L3a_Essay Writing (Homework).pptx.pdf」。（此公告 2026-11-09 發布，2026-11-11 07:50 編輯，截止日由 12/11 改為 13/11。）"
-  },
-  {
-   "course": "2627 6C Geography",
-   "title": "",
-   "posted": "2026-11-09",
-   "body": "Hi everyone,\nPlease take note of the following instructions regarding your Geography portfolios:\n• Portfolio Checking: We will be setting aside our lesson on Monday 16th November to check and grade your portfolios before Assessment Week. Please make sure you bring all relevant work, notes, and materials to class.\n• Organization: Ensure your portfolio is fully organized and up to date prior to our checking session\nLet me know if you have any questions!"
-  },
-  {
-   "course": "6C FTP and English Secondary",
-   "title": "CKY 25th Anniversary competitions",
-   "posted": "2026-11-06",
-   "body": "Hi everyone,\nAs you know, the CKY 25th Anniversary celebrations start next week, and the English department is running two competitions, one for you and one for your parents. Please read the information below carefully, and if you would like to take part in either of the competitions, please follow the instructions.\nBest of luck!\nMr. Ghomrassi\nCKY 25th Anniversary competitions - Parent competition\n1. What is the competition about?\na. In 2025, Po Leung Kuk Choi Kai Yau School celebrated its 25th anniversary. To commemorate this occasion, the school's English department is organising a writing competition for parents. We invite parents to submit a piece of writing which answers the question: \"How has CKY's 25 years of education influenced and shaped your family?\" Parents are invited to submit a short piece of writing (maximum 250 words) sharing their reflections on the school's impact on their family. Entries will be judged on quality and creativity, and the top three winners will receive a prize.\nb. Please use the link below to access the form to upload your writing.\nhttps://docs.google.com/forms/d/e/1FAIpQLSfr3Cck8c0J1u8mZ5k8dM-8mE1fW9K2d7Xj5h4bPq5hPqZ5hPqZ5hPqZ5/viewform?usp=header\nc. The deadline for this competition is Monday 7th December 2026.\nd. Please make sure that you have saved the form before you submit it. The link will be sent to you via a school notice.\n2. What is the prize?\na. The prize is a 1st Prize Certificate and a book voucher.\nCKY 25th Anniversary competitions - Student competition\n1. What is the competition about?\na. In 2025, Po Leung Kuk Choi Kai Yau School celebrated its 25th anniversary. To commemorate this occasion, the school's English department is organising a writing competition for students. We invite students to submit a piece of writing which answers the question: \"How has CKY's 25 years of education influenced and shaped your family?\" Students are invited to submit a piece of writing (maximum 250 words) sharing their reflections on the school's impact on their family. Entries will be judged on quality and creativity, and the top three winners will receive a prize.\nb. Please use the link below to access the form to upload your writing.\nhttps://docs.google.com/forms/d/e/1FAIpQLSfr3Cck8c0J1u8mZ5k8dM-8mE1fW9K2d7Xj5h4bPq5hPqZ5hPqZ5hPqZ5/viewform?usp=header\nc. The deadline for this competition is Monday 7th December 2026.\nd. Please make sure that you have saved the form before you submit it. The link will be sent to you via a school notice.\n2. What is the prize?\na. The prize is a 1st Prize Certificate and a book voucher. 附件：Google Slides「CKY 25th Anniversary competitions」。"
-  },
-  {
-   "course": "2627 6C Geography",
-   "title": "",
-   "posted": "2026-10-31",
-   "body": "Dear all, Please note the following important details about the upcoming assessment for Module 1: Our Restless Earth. • Assessment: The assessment will be conducted during regular lesson times (Period 1 and 2 for both 6A and 6B classes). It will be based on the content covered in Lessons 1-8. • Preparation: The key preparation materials are the Y6 Homework Booklet WS#3 Debrief, the Class Workbook, and the Reference Sheet. • Time: Please note that this assessment will be held as an in-class assessment during a regular lesson. The assessment will last approximately 30 minutes. • Instructions: Please arrive on time and bring all necessary materials, including a pen/pencil. There are two parts to the assessment: MC questions and short questions. • Grading: The assessment will be graded and included in your term 1 grades. It is important to review the content covered in Lessons 1-8 and complete the assigned homework booklet tasks. The assessment details are subject to change, and I will inform you of any updates in class. Let me know if you have any questions. Best regards, Mr. Tse 附件：Guidance Sheet - Levels of questions.docx.pdf。（原公告 2026-10-31 發布，2026-11-17 編輯；公告本文無確實評估日期。）"
-  },
-  {
-   "course": "6C中文 2026-2027",
-   "title": "",
-   "posted": "2026-10-15",
-   "body": "同學們加油哦！期待大家能像上週「年級詞語大挑」那樣，取得理想的成績！加油加油😊 上官老師。附件：PDF「六年級上學期溫習重點2026-27.docx.pdf」（2026-11-13 編輯）。閱讀／課外閱讀：人物描寫文、閱讀理解、文本分析；圖書《何紫兒童小說精選集》全書，評估時只准帶呢本書，可貼無字標籤；寫作：人物描寫文，閉卷，唔可帶積累本／採蜜集；說話：日常朗讀＋口語短講，評估週前派準備紙，評估週後課上考，可帶 A6 單面提詞卡。"
+   "course": "26-27 6C Music",
+   "title": "6C",
+   "posted": "2026-11-13",
+   "body": "This is for the Year 6 Music Written Exam. A reference sheet is attached. Work hard on your revision! 附件：Word「Year 6 Assessment reference sheet.docx」。"
   }
  ],
  "materials": [
   {
-   "course": "2627 6C Geography",
-   "title": "Our Restless Earth - Unit 4 - Lesson 3 & 4",
-   "posted": "2026-11-17",
-   "body": "17/11 新教材；昨日狀態檔未記錄，今次補記。"
+   "course": "2627_6C Mathematics Secondary",
+   "title": "HW01-04 Example answer",
+   "posted": "2026-11-20",
+   "body": "無文字說明。附件：HW01-04 例題答案。"
+  },
+  {
+   "course": "2627_6C Mathematics Secondary",
+   "title": "Y6 1st Assessment Mock paper MS",
+   "posted": "2026-11-20",
+   "body": "無文字說明。附件：Y6 第一次評估模擬卷答案。"
+  },
+  {
+   "course": "6C ICT (2026-2027)",
+   "title": "Lesson Slides",
+   "posted": "2026-11-19",
+   "body": "無文字說明。17/11 建立、19/11 編輯。"
   },
   {
    "course": "2627 6C Geography",
    "title": "Y6 Homework Booklet WS#3 Debrief",
    "posted": "2026-11-17",
    "body": "無文字說明。附件：PDF「2026-27 Y6 Homework Booklet WS#3 Debrief.pdf」。"
+  },
+  {
+   "course": "2627 6C Geography",
+   "title": "Our Restless Earth - Unit 4 - Lesson 3 & 4",
+   "posted": "2026-11-17",
+   "body": "17/11 新教材；昨日狀態檔已記錄，今日覆核未再提及。"
   },
   {
    "course": "6C ICT (2026-2027)",
@@ -207,33 +159,9 @@
   },
   {
    "course": "6C History 2026-2027",
-   "title": "Ancient Greece",
-   "posted": "2026-11-11",
-   "body": "Materials for Study and Exam. 附件：13 個 PDF（Ancient Greece 1.pdf 至 Ancient Greece 13.pdf）。無留言。"
-  },
-  {
-   "course": "6C/6D STEM",
-   "title": "OLED",
-   "posted": "2026-11-11",
-   "body": "Students, Please read the slides to learn how to connect the OLED correctly to the RobotBit. Mr. Man 附件：Google Slides「STEM OLED」。無留言。"
-  },
-  {
-   "course": "2627 6C Geography",
-   "title": "Y6 Lesson 8: Weathering",
-   "posted": "2026-11-10",
-   "body": "附件：PDF「L8_Weathering.pptx.pdf」。"
-  },
-  {
-   "course": "6C Drama",
-   "title": "Alice in Wonderland PPT",
-   "posted": "2026-11-09",
-   "body": "附件：PDF「Alice in Wonderlad PDF.pdf」（檔名原文如此）。"
-  },
-  {
-   "course": "6C History 2026-2027",
    "title": "Unit 1 Historical skills",
-   "posted": "2026-09-30",
-   "body": "Historical skills in History. All the powerpoints and worksheets are uploaded here 附件：9 個 PDF（Lesson 1 - Introduction to History.pdf、Lesson 2 - Chronology (CHRONOLGY).pdf、Lesson 3 - Sources.pdf、Lesson 4 - Significance.pdf、Lesson 5 - Continuity and Change.pdf、Lesson 6 - Cause and consequence.pdf、Lesson 7 - Perspectives.pdf、Lesson 8 - Historical Empathy.pdf、Lesson 9 - Historical Significance.pdf）。"
+   "posted": "2026-11-13",
+   "body": "Historical skills in History. All the powerpoints and worksheets are uploaded here 附件：9 個 PDF（Lesson 1 - Introduction to History.pdf、Lesson 2 - Chronology (CHRONOLGY).pdf、Lesson 3 - Sources.pdf、Lesson 4 - Significance.pdf、Lesson 5 - Continuity and Change.pdf、Lesson 6 - Cause and consequence.pdf、Lesson 7 - Perspectives.pdf、Lesson 8 - Historical Empathy.pdf、Lesson 9 - Historical Significance.pdf）。（30/9 建立、13/11 編輯。）"
   }
  ],
  "grades": [],
